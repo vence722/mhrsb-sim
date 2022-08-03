@@ -1,0 +1,5048 @@
+[
+    {
+        "name": "神火裝【手甲】",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "火場怪力": 1
+        },
+        "defense": 67,
+        "resistance": [
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "皮製手套",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "地質學": 1
+        },
+        "defense": 67,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "鎖甲手套",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "植生學": 1
+        },
+        "defense": 62,
+        "resistance": [
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "獵人腕甲",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "收刀術": 1
+        },
+        "defense": 62,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "鐮鼬龍腕甲",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "體術": 1
+        },
+        "defense": 68,
+        "resistance": [
+            2,
+            -1,
+            -2,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "眠狗龍腕甲",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "睡眠耐性": 1,
+            "冰屬性攻擊強化": 1
+        },
+        "defense": 68,
+        "resistance": [
+            -4,
+            -1,
+            -1,
+            2,
+            1
+        ]
+    },
+    {
+        "name": "青熊獸腕甲",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "防禦": 1
+        },
+        "defense": 68,
+        "resistance": [
+            -2,
+            0,
+            -2,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "白兔獸腕甲",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "冰屬性攻擊強化": 1
+        },
+        "defense": 68,
+        "resistance": [
+            -3,
+            1,
+            0,
+            4,
+            0
+        ]
+    },
+    {
+        "name": "合金腕甲",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "看破": 1
+        },
+        "defense": 62,
+        "resistance": [
+            -1,
+            0,
+            -1,
+            -1,
+            0
+        ]
+    },
+    {
+        "name": "骨製腕甲",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "奪取耐力": 1
+        },
+        "defense": 62,
+        "resistance": [
+            0,
+            0,
+            0,
+            -1,
+            0
+        ]
+    },
+    {
+        "name": "高貴枝葉",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "毒耐性": 1
+        },
+        "defense": 64,
+        "resistance": [
+            -1,
+            3,
+            -1,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "毒蠍護袖",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "毒耐性": 1
+        },
+        "defense": 64,
+        "resistance": [
+            3,
+            -1,
+            -1,
+            -1,
+            3
+        ]
+    },
+    {
+        "name": "毒蛛護袖",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "毒耐性": 1
+        },
+        "defense": 64,
+        "resistance": [
+            3,
+            -1,
+            -1,
+            -1,
+            3
+        ]
+    },
+    {
+        "name": "貝殼拳套",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "後座力減輕": 1
+        },
+        "defense": 64,
+        "resistance": [
+            0,
+            2,
+            1,
+            -1,
+            0
+        ]
+    },
+    {
+        "name": "原角龍腕甲",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "砲術": 1
+        },
+        "defense": 66,
+        "resistance": [
+            2,
+            0,
+            0,
+            -2,
+            0
+        ]
+    },
+    {
+        "name": "飛甲蟲護手",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "迴避性能": 1
+        },
+        "defense": 66,
+        "resistance": [
+            -2,
+            0,
+            0,
+            0,
+            2
+        ]
+    },
+    {
+        "name": "狗龍皮臂甲",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "攻擊": 1
+        },
+        "defense": 66,
+        "resistance": [
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "name": "搔鳥腕甲",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "KO術": 1
+        },
+        "defense": 68,
+        "resistance": [
+            0,
+            -3,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "name": "毒狗龍腕甲",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "裝填擴充": 1
+        },
+        "defense": 68,
+        "resistance": [
+            2,
+            -2,
+            1,
+            -4,
+            0
+        ]
+    },
+    {
+        "name": "傘鳥腕甲",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "火屬性攻擊強化": 1
+        },
+        "defense": 68,
+        "resistance": [
+            3,
+            -3,
+            -1,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "水獸腕甲",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "跑者": 1
+        },
+        "defense": 70,
+        "resistance": [
+            -3,
+            4,
+            -1,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "土砂龍腕甲",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "滑走強化": 1
+        },
+        "defense": 70,
+        "resistance": [
+            -3,
+            -1,
+            3,
+            -1,
+            0
+        ]
+    },
+    {
+        "name": "奇怪龍腕甲",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "飛簷走壁": 1,
+            "回復速度": 1,
+            "雷屬性攻擊強化": 1
+        },
+        "defense": 68,
+        "resistance": [
+            -4,
+            1,
+            4,
+            2,
+            1
+        ]
+    },
+    {
+        "name": "河童蛙腕甲",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "特殊射擊強化": 1
+        },
+        "defense": 70,
+        "resistance": [
+            -1,
+            4,
+            -2,
+            1,
+            0
+        ]
+    },
+    {
+        "name": "鑄鐵腕甲",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "雷屬性攻擊強化": 2
+        },
+        "defense": 68,
+        "resistance": [
+            -1,
+            -1,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "花瓣枝葉",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "麻痺耐性": 1,
+            "體力回復量UP": 1
+        },
+        "defense": 68,
+        "resistance": [
+            0,
+            1,
+            3,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "死神雙手",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "精神抖擻": 1
+        },
+        "defense": 68,
+        "resistance": [
+            3,
+            1,
+            1,
+            -1,
+            0
+        ]
+    },
+    {
+        "name": "南瓜枝葉",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "爆破異常狀態的耐性": 1
+        },
+        "defense": 68,
+        "resistance": [
+            -3,
+            1,
+            0,
+            3,
+            0
+        ]
+    },
+    {
+        "name": "海境腕甲",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "通常彈・連射箭強化": 1
+        },
+        "defense": 68,
+        "resistance": [
+            0,
+            3,
+            -2,
+            -1,
+            0
+        ]
+    },
+    {
+        "name": "翼蛇龍套裝手套",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "會心擊【屬性】": 1,
+            "風壓耐性": 1
+        },
+        "defense": 68,
+        "resistance": [
+            1,
+            1,
+            1,
+            1,
+            2
+        ]
+    },
+    {
+        "name": "赤甲獸腕甲",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "迴避距離UP": 1
+        },
+        "defense": 70,
+        "resistance": [
+            2,
+            -3,
+            0,
+            -1,
+            1
+        ]
+    },
+    {
+        "name": "天狗獸腕甲",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "昏厥耐性": 1
+        },
+        "defense": 72,
+        "resistance": [
+            -2,
+            2,
+            2,
+            -4,
+            2
+        ]
+    },
+    {
+        "name": "毒妖鳥腕甲",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "彈藥節約": 1
+        },
+        "defense": 70,
+        "resistance": [
+            0,
+            3,
+            -3,
+            0,
+            1
+        ]
+    },
+    {
+        "name": "岩龍腕甲",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "防禦性能": 1,
+            "砥石使用高速化": 1
+        },
+        "defense": 72,
+        "resistance": [
+            0,
+            -2,
+            1,
+            1,
+            -3
+        ]
+    },
+    {
+        "name": "人魚龍腕甲",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "炸彈客": 1,
+            "精靈加護": 1
+        },
+        "defense": 72,
+        "resistance": [
+            -1,
+            2,
+            -3,
+            0,
+            1
+        ]
+    },
+    {
+        "name": "雌火龍腕甲",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "屬性異常狀態的耐性": 1
+        },
+        "defense": 72,
+        "resistance": [
+            3,
+            0,
+            -2,
+            0,
+            -3
+        ]
+    },
+    {
+        "name": "冰牙龍腕甲",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "看破": 1
+        },
+        "defense": 70,
+        "resistance": [
+            -5,
+            0,
+            -1,
+            3,
+            0
+        ]
+    },
+    {
+        "name": "飛雷龍腕甲",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "體術": 1
+        },
+        "defense": 70,
+        "resistance": [
+            0,
+            -3,
+            3,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "魚鱗袖",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "飛身躍入": 1
+        },
+        "defense": 68,
+        "resistance": [
+            1,
+            2,
+            -2,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "鍬形護袖",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "迴避性能": 1
+        },
+        "defense": 68,
+        "resistance": [
+            -2,
+            0,
+            3,
+            -2,
+            2
+        ]
+    },
+    {
+        "name": "鳳蝶護袖",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "迴避性能": 1
+        },
+        "defense": 68,
+        "resistance": [
+            -2,
+            0,
+            3,
+            -2,
+            2
+        ]
+    },
+    {
+        "name": "歌德手套",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "精靈加護": 1
+        },
+        "defense": 68,
+        "resistance": [
+            1,
+            3,
+            0,
+            2,
+            0
+        ]
+    },
+    {
+        "name": "倪泰表【手甲】",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "廣域化": 1
+        },
+        "defense": 68,
+        "resistance": [
+            3,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "依巫【花袖】",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "廣域化": 1
+        },
+        "defense": 68,
+        "resistance": [
+            3,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "倪泰裡【手甲】",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "迴避性能": 1,
+            "翔蟲能手": 1
+        },
+        "defense": 68,
+        "resistance": [
+            3,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "神凪【花袖】",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "迴避性能": 1,
+            "翔蟲能手": 1
+        },
+        "defense": 68,
+        "resistance": [
+            3,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "旅團腕甲",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "地質學": 2
+        },
+        "defense": 70,
+        "resistance": [
+            1,
+            0,
+            2,
+            0,
+            2
+        ]
+    },
+    {
+        "name": "禍鎧【臂甲】",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "鬼火纏身": 1
+        },
+        "defense": 72,
+        "resistance": [
+            3,
+            -3,
+            -2,
+            1,
+            1
+        ]
+    },
+    {
+        "name": "蠻顎龍腕甲",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "KO術": 1,
+            "攻擊": 1
+        },
+        "defense": 70,
+        "resistance": [
+            3,
+            -3,
+            -1,
+            -1,
+            0
+        ]
+    },
+    {
+        "name": "迅龍腕甲",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "迴避性能": 1,
+            "迴避距離UP": 1
+        },
+        "defense": 70,
+        "resistance": [
+            -2,
+            1,
+            -3,
+            1,
+            1
+        ]
+    },
+    {
+        "name": "泡狐龍腕甲",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "水屬性攻擊強化": 1,
+            "滿足感": 1
+        },
+        "defense": 70,
+        "resistance": [
+            0,
+            2,
+            -3,
+            1,
+            -1
+        ]
+    },
+    {
+        "name": "火龍腕甲",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "攻擊": 1
+        },
+        "defense": 72,
+        "resistance": [
+            4,
+            0,
+            -2,
+            0,
+            -4
+        ]
+    },
+    {
+        "name": "雷狼龍腕甲",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "體術": 1
+        },
+        "defense": 72,
+        "resistance": [
+            0,
+            -1,
+            4,
+            -4,
+            1
+        ]
+    },
+    {
+        "name": "雪鬼獸腕甲",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "拔刀術【技】": 1,
+            "拔刀術【力】": 1
+        },
+        "defense": 72,
+        "resistance": [
+            -4,
+            1,
+            -1,
+            4,
+            0
+        ]
+    },
+    {
+        "name": "泥翁龍腕甲",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "高速變形": 1,
+            "迴避性能": 1
+        },
+        "defense": 72,
+        "resistance": [
+            -4,
+            3,
+            3,
+            -2,
+            -2
+        ]
+    },
+    {
+        "name": "轟龍腕甲",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "鈍器能手": 2
+        },
+        "defense": 72,
+        "resistance": [
+            2,
+            0,
+            -3,
+            0,
+            -2
+        ]
+    },
+    {
+        "name": "角龍腕甲",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "攻擊守勢": 1
+        },
+        "defense": 72,
+        "resistance": [
+            3,
+            -1,
+            -1,
+            -3,
+            -1
+        ]
+    },
+    {
+        "name": "神火裝【手甲】霸",
+        "type": "arms",
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "看破": 2,
+            "火場怪力": 1
+        },
+        "defense": 68,
+        "resistance": [
+            2,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "皮製S手套",
+        "type": "arms",
+        "slots": [
+            1,
+            1,
+            0
+        ],
+        "skills": {
+            "地質學": 1,
+            "特殊射擊強化": 1
+        },
+        "defense": 68,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "鎖甲S手套",
+        "type": "arms",
+        "slots": [
+            1,
+            1,
+            0
+        ],
+        "skills": {
+            "植生學": 1,
+            "防禦": 2
+        },
+        "defense": 70,
+        "resistance": [
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "獵人S腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "收刀術": 1
+        },
+        "defense": 70,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "合金S腕甲",
+        "type": "arms",
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "skills": {
+            "水屬性攻擊強化": 1,
+            "看破": 2
+        },
+        "defense": 70,
+        "resistance": [
+            -1,
+            0,
+            -1,
+            -1,
+            0
+        ]
+    },
+    {
+        "name": "骨製S腕甲",
+        "type": "arms",
+        "slots": [
+            1,
+            1,
+            0
+        ],
+        "skills": {
+            "泥雪耐性": 1,
+            "奪取耐力": 1
+        },
+        "defense": 70,
+        "resistance": [
+            0,
+            0,
+            0,
+            -1,
+            0
+        ]
+    },
+    {
+        "name": "毒蠍S護袖",
+        "type": "arms",
+        "slots": [
+            1,
+            1,
+            0
+        ],
+        "skills": {
+            "力量解放": 1,
+            "毒耐性": 1
+        },
+        "defense": 70,
+        "resistance": [
+            3,
+            -1,
+            -1,
+            -1,
+            3
+        ]
+    },
+    {
+        "name": "毒蛛S護袖",
+        "type": "arms",
+        "slots": [
+            1,
+            1,
+            0
+        ],
+        "skills": {
+            "力量解放": 1,
+            "毒耐性": 1
+        },
+        "defense": 70,
+        "resistance": [
+            3,
+            -1,
+            -1,
+            -1,
+            3
+        ]
+    },
+    {
+        "name": "飛甲蟲S護手",
+        "type": "arms",
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "skills": {
+            "毒屬性強化": 2,
+            "迴避性能": 1
+        },
+        "defense": 72,
+        "resistance": [
+            -2,
+            0,
+            0,
+            0,
+            2
+        ]
+    },
+    {
+        "name": "鐮鼬龍S腕甲",
+        "type": "arms",
+        "slots": [
+            1,
+            1,
+            0
+        ],
+        "skills": {
+            "體術": 2
+        },
+        "defense": 74,
+        "resistance": [
+            2,
+            -1,
+            -2,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "眠狗龍S腕甲",
+        "type": "arms",
+        "slots": [
+            1,
+            1,
+            0
+        ],
+        "skills": {
+            "睡眠耐性": 2,
+            "冰屬性攻擊強化": 1
+        },
+        "defense": 74,
+        "resistance": [
+            -4,
+            -1,
+            -1,
+            2,
+            1
+        ]
+    },
+    {
+        "name": "搔鳥S腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "KO術": 1,
+            "奪取耐力": 2
+        },
+        "defense": 76,
+        "resistance": [
+            0,
+            -3,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "name": "毒狗龍S腕甲",
+        "type": "arms",
+        "slots": [
+            3,
+            0,
+            0
+        ],
+        "skills": {
+            "裝填擴充": 1
+        },
+        "defense": 76,
+        "resistance": [
+            2,
+            -2,
+            1,
+            -4,
+            0
+        ]
+    },
+    {
+        "name": "青熊獸S腕甲",
+        "type": "arms",
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "skills": {
+            "逆襲": 1,
+            "防禦": 2
+        },
+        "defense": 74,
+        "resistance": [
+            -2,
+            0,
+            -2,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "白兔獸S腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            1,
+            0
+        ],
+        "skills": {
+            "看破": 2,
+            "冰屬性攻擊強化": 1
+        },
+        "defense": 74,
+        "resistance": [
+            -3,
+            1,
+            0,
+            3,
+            0
+        ]
+    },
+    {
+        "name": "傘鳥S腕甲",
+        "type": "arms",
+        "slots": [
+            1,
+            1,
+            0
+        ],
+        "skills": {
+            "無傷": 1,
+            "火屬性攻擊強化": 1
+        },
+        "defense": 76,
+        "resistance": [
+            3,
+            -3,
+            -1,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "奇怪龍S腕甲",
+        "type": "arms",
+        "slots": [
+            1,
+            1,
+            0
+        ],
+        "skills": {
+            "飛簷走壁": 1,
+            "回復速度": 1,
+            "雷屬性攻擊強化": 2
+        },
+        "defense": 76,
+        "resistance": [
+            -4,
+            1,
+            4,
+            2,
+            1
+        ]
+    },
+    {
+        "name": "河童蛙S腕甲",
+        "type": "arms",
+        "slots": [
+            1,
+            1,
+            0
+        ],
+        "skills": {
+            "火場怪力": 1,
+            "特殊射擊強化": 1
+        },
+        "defense": 78,
+        "resistance": [
+            -1,
+            4,
+            -2,
+            1,
+            0
+        ]
+    },
+    {
+        "name": "鑄鐵S腕甲",
+        "type": "arms",
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "skills": {
+            "雷屬性攻擊強化": 3
+        },
+        "defense": 70,
+        "resistance": [
+            -1,
+            -1,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "高貴S枝葉",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "捕獲名人": 1
+        },
+        "defense": 70,
+        "resistance": [
+            -1,
+            3,
+            -1,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "原角龍S腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            1,
+            0
+        ],
+        "skills": {
+            "砲術": 2
+        },
+        "defense": 72,
+        "resistance": [
+            2,
+            0,
+            0,
+            -2,
+            0
+        ]
+    },
+    {
+        "name": "狗龍皮臂甲S",
+        "type": "arms",
+        "slots": [
+            1,
+            1,
+            0
+        ],
+        "skills": {
+            "攻擊": 2
+        },
+        "defense": 72,
+        "resistance": [
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "name": "赤甲獸S腕甲",
+        "type": "arms",
+        "slots": [
+            1,
+            1,
+            1
+        ],
+        "skills": {
+            "迴避距離UP": 1,
+            "麻痺屬性強化": 1
+        },
+        "defense": 80,
+        "resistance": [
+            2,
+            -3,
+            0,
+            -1,
+            1
+        ]
+    },
+    {
+        "name": "水獸S腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            1,
+            1
+        ],
+        "skills": {
+            "跑者": 1
+        },
+        "defense": 78,
+        "resistance": [
+            -3,
+            4,
+            -1,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "土砂龍S腕甲",
+        "type": "arms",
+        "slots": [
+            1,
+            1,
+            0
+        ],
+        "skills": {
+            "攻擊": 2,
+            "滑走強化": 1
+        },
+        "defense": 80,
+        "resistance": [
+            -3,
+            -1,
+            3,
+            -1,
+            0
+        ]
+    },
+    {
+        "name": "天狗獸S腕甲",
+        "type": "arms",
+        "slots": [
+            3,
+            0,
+            0
+        ],
+        "skills": {
+            "道具使用強化": 1,
+            "昏厥耐性": 1
+        },
+        "defense": 82,
+        "resistance": [
+            -2,
+            2,
+            2,
+            -4,
+            2
+        ]
+    },
+    {
+        "name": "毒妖鳥S腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "彈藥節約": 1,
+            "彈道強化": 1
+        },
+        "defense": 80,
+        "resistance": [
+            0,
+            3,
+            -3,
+            0,
+            1
+        ]
+    },
+    {
+        "name": "泥魚龍腕甲",
+        "type": "arms",
+        "slots": [
+            3,
+            2,
+            1
+        ],
+        "skills": {},
+        "defense": 78,
+        "resistance": [
+            -1,
+            2,
+            -3,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "岩龍S腕甲",
+        "type": "arms",
+        "slots": [
+            1,
+            1,
+            0
+        ],
+        "skills": {
+            "防禦性能": 2,
+            "砥石使用高速化": 1
+        },
+        "defense": 82,
+        "resistance": [
+            0,
+            -2,
+            1,
+            1,
+            -3
+        ]
+    },
+    {
+        "name": "雌火龍S腕甲",
+        "type": "arms",
+        "slots": [
+            1,
+            1,
+            0
+        ],
+        "skills": {
+            "屬性異常狀態的耐性": 1,
+            "廣域化": 1
+        },
+        "defense": 82,
+        "resistance": [
+            3,
+            0,
+            -2,
+            0,
+            -3
+        ]
+    },
+    {
+        "name": "杜賓腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            1,
+            1
+        ],
+        "skills": {
+            "龍屬性攻擊強化": 1,
+            "強化持續": 1
+        },
+        "defense": 72,
+        "resistance": [
+            -2,
+            0,
+            0,
+            0,
+            4
+        ]
+    },
+    {
+        "name": "貝殼S拳套",
+        "type": "arms",
+        "slots": [
+            1,
+            1,
+            0
+        ],
+        "skills": {
+            "散彈・擴散箭強化": 1,
+            "通常彈・連射箭強化": 1
+        },
+        "defense": 72,
+        "resistance": [
+            0,
+            2,
+            1,
+            -1,
+            0
+        ]
+    },
+    {
+        "name": "花瓣S枝葉",
+        "type": "arms",
+        "slots": [
+            1,
+            1,
+            0
+        ],
+        "skills": {
+            "麻痺耐性": 1,
+            "植生學": 1,
+            "體力回復量UP": 1
+        },
+        "defense": 72,
+        "resistance": [
+            0,
+            1,
+            3,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "死神S雙手",
+        "type": "arms",
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "skills": {
+            "精神抖擻": 2
+        },
+        "defense": 72,
+        "resistance": [
+            3,
+            1,
+            1,
+            -1,
+            0
+        ]
+    },
+    {
+        "name": "南瓜S枝葉",
+        "type": "arms",
+        "slots": [
+            2,
+            1,
+            1
+        ],
+        "skills": {
+            "爆破異常狀態的耐性": 1,
+            "減輕膽怯": 1
+        },
+        "defense": 72,
+        "resistance": [
+            -3,
+            1,
+            0,
+            3,
+            0
+        ]
+    },
+    {
+        "name": "海境S腕甲",
+        "type": "arms",
+        "slots": [
+            1,
+            1,
+            0
+        ],
+        "skills": {
+            "通常彈・連射箭強化": 2
+        },
+        "defense": 72,
+        "resistance": [
+            0,
+            3,
+            -2,
+            -1,
+            0
+        ]
+    },
+    {
+        "name": "魚鱗S袖",
+        "type": "arms",
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "泡沫之舞": 1,
+            "飛身躍入": 1
+        },
+        "defense": 72,
+        "resistance": [
+            1,
+            2,
+            -2,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "倪泰表【手甲】霸",
+        "type": "arms",
+        "slots": [
+            3,
+            0,
+            0
+        ],
+        "skills": {
+            "廣域化": 1
+        },
+        "defense": 72,
+        "resistance": [
+            3,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "依巫・祈【花袖】",
+        "type": "arms",
+        "slots": [
+            3,
+            0,
+            0
+        ],
+        "skills": {
+            "廣域化": 1
+        },
+        "defense": 72,
+        "resistance": [
+            3,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "倪泰裡【手甲】霸",
+        "type": "arms",
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "迴避性能": 1,
+            "翔蟲能手": 1
+        },
+        "defense": 72,
+        "resistance": [
+            3,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "神凪・願【花袖】",
+        "type": "arms",
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "迴避性能": 1,
+            "翔蟲能手": 1
+        },
+        "defense": 72,
+        "resistance": [
+            3,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "翼蛇龍套裝S手套",
+        "type": "arms",
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "會心擊【屬性】": 1,
+            "風壓耐性": 1
+        },
+        "defense": 72,
+        "resistance": [
+            1,
+            1,
+            1,
+            1,
+            3
+        ]
+    },
+    {
+        "name": "人魚龍S腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "炸彈客": 2,
+            "精靈加護": 1
+        },
+        "defense": 78,
+        "resistance": [
+            -1,
+            2,
+            -3,
+            0,
+            1
+        ]
+    },
+    {
+        "name": "冰牙龍S腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "收刀術": 1,
+            "精神抖擻": 1,
+            "看破": 1
+        },
+        "defense": 78,
+        "resistance": [
+            -3,
+            0,
+            -1,
+            3,
+            0
+        ]
+    },
+    {
+        "name": "飛雷龍S腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "體術": 3
+        },
+        "defense": 78,
+        "resistance": [
+            0,
+            -3,
+            3,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "蠻顎龍S腕甲",
+        "type": "arms",
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "skills": {
+            "KO術": 2,
+            "攻擊": 2
+        },
+        "defense": 80,
+        "resistance": [
+            3,
+            -3,
+            -1,
+            -1,
+            0
+        ]
+    },
+    {
+        "name": "迅龍S腕甲",
+        "type": "arms",
+        "slots": [
+            1,
+            1,
+            0
+        ],
+        "skills": {
+            "迴避性能": 1,
+            "迴避距離UP": 1
+        },
+        "defense": 80,
+        "resistance": [
+            -2,
+            1,
+            -3,
+            1,
+            1
+        ]
+    },
+    {
+        "name": "泡狐龍S腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "死裡逃生": 1,
+            "滿足感": 1
+        },
+        "defense": 80,
+        "resistance": [
+            0,
+            2,
+            -3,
+            1,
+            -1
+        ]
+    },
+    {
+        "name": "火龍S腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "攻擊": 2
+        },
+        "defense": 82,
+        "resistance": [
+            3,
+            1,
+            -2,
+            1,
+            -3
+        ]
+    },
+    {
+        "name": "雷狼龍S腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "力量解放": 1,
+            "體術": 1
+        },
+        "defense": 82,
+        "resistance": [
+            0,
+            -1,
+            4,
+            -4,
+            1
+        ]
+    },
+    {
+        "name": "鍬形S護袖",
+        "type": "arms",
+        "slots": [
+            3,
+            0,
+            0
+        ],
+        "skills": {
+            "迴避性能": 1
+        },
+        "defense": 82,
+        "resistance": [
+            -2,
+            0,
+            3,
+            -2,
+            2
+        ]
+    },
+    {
+        "name": "鳳蝶S護袖",
+        "type": "arms",
+        "slots": [
+            3,
+            0,
+            0
+        ],
+        "skills": {
+            "迴避性能": 1
+        },
+        "defense": 82,
+        "resistance": [
+            -2,
+            0,
+            3,
+            -2,
+            2
+        ]
+    },
+    {
+        "name": "歌德S手套",
+        "type": "arms",
+        "slots": [
+            1,
+            1,
+            0
+        ],
+        "skills": {
+            "精靈加護": 2
+        },
+        "defense": 82,
+        "resistance": [
+            1,
+            3,
+            0,
+            2,
+            0
+        ]
+    },
+    {
+        "name": "旅團S腕甲",
+        "type": "arms",
+        "slots": [
+            3,
+            1,
+            0
+        ],
+        "skills": {
+            "地質學": 2
+        },
+        "defense": 82,
+        "resistance": [
+            1,
+            0,
+            2,
+            0,
+            2
+        ]
+    },
+    {
+        "name": "禍鎧・霸【臂甲】",
+        "type": "arms",
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "鬼火纏身": 1,
+            "匠": 2
+        },
+        "defense": 84,
+        "resistance": [
+            3,
+            -3,
+            -2,
+            1,
+            1
+        ]
+    },
+    {
+        "name": "雪鬼獸S腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "拔刀術【技】": 1,
+            "拔刀術【力】": 1
+        },
+        "defense": 84,
+        "resistance": [
+            -4,
+            1,
+            -1,
+            4,
+            0
+        ]
+    },
+    {
+        "name": "泥翁龍S腕甲",
+        "type": "arms",
+        "slots": [
+            1,
+            1,
+            0
+        ],
+        "skills": {
+            "高速變形": 1,
+            "迴避性能": 2
+        },
+        "defense": 84,
+        "resistance": [
+            -4,
+            3,
+            3,
+            -2,
+            -2
+        ]
+    },
+    {
+        "name": "轟龍S腕甲",
+        "type": "arms",
+        "slots": [
+            3,
+            0,
+            0
+        ],
+        "skills": {
+            "鈍器能手": 2,
+            "心眼": 1
+        },
+        "defense": 84,
+        "resistance": [
+            2,
+            0,
+            -3,
+            0,
+            -2
+        ]
+    },
+    {
+        "name": "角龍S腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            1,
+            0
+        ],
+        "skills": {
+            "攻擊守勢": 1
+        },
+        "defense": 84,
+        "resistance": [
+            3,
+            -1,
+            -1,
+            -3,
+            -1
+        ]
+    },
+    {
+        "name": "妃蜘蛛腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "體術": 2,
+            "耐力急速回復": 1
+        },
+        "defense": 86,
+        "resistance": [
+            4,
+            -2,
+            -1,
+            -3,
+            1
+        ]
+    },
+    {
+        "name": "金色臂甲",
+        "type": "arms",
+        "slots": [
+            3,
+            1,
+            0
+        ],
+        "skills": {
+            "火場怪力": 1,
+            "力量解放": 1
+        },
+        "defense": 90,
+        "resistance": [
+            2,
+            1,
+            3,
+            -5,
+            2
+        ]
+    },
+    {
+        "name": "大馬士革腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            1,
+            0
+        ],
+        "skills": {
+            "耳塞": 1
+        },
+        "defense": 88,
+        "resistance": [
+            -1,
+            2,
+            -3,
+            1,
+            -1
+        ]
+    },
+    {
+        "name": "鋼龍剛強",
+        "type": "arms",
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "skills": {
+            "鋼殼之恩惠": 1,
+            "回復速度": 1,
+            "挑戰者": 2
+        },
+        "defense": 94,
+        "resistance": [
+            -1,
+            2,
+            -2,
+            3,
+            -3
+        ]
+    },
+    {
+        "name": "霞龍劍裝【大袖】",
+        "type": "arms",
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "skills": {
+            "霞皮之恩惠": 1,
+            "毒屬性強化": 1,
+            "迴避性能": 1
+        },
+        "defense": 94,
+        "resistance": [
+            -5,
+            1,
+            0,
+            3,
+            -3
+        ]
+    },
+    {
+        "name": "帝王腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "炎鱗之恩惠": 1,
+            "看破": 1,
+            "超會心": 1
+        },
+        "defense": 94,
+        "resistance": [
+            4,
+            -4,
+            1,
+            -1,
+            -3
+        ]
+    },
+    {
+        "name": "爆鱗龍腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            2,
+            0
+        ],
+        "skills": {
+            "砲彈裝填": 1,
+            "防禦強化": 1
+        },
+        "defense": 92,
+        "resistance": [
+            3,
+            1,
+            -4,
+            -2,
+            -2
+        ]
+    },
+    {
+        "name": "龍捲之臂",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "風紋一致": 1,
+            "體術": 1,
+            "耐力急速回復": 1,
+            "風雷合一": 1
+        },
+        "defense": 86,
+        "resistance": [
+            -1,
+            0,
+            0,
+            0,
+            -2
+        ]
+    },
+    {
+        "name": "鳴神之臂",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "雷紋一致": 1,
+            "防禦性能": 1,
+            "破壞王": 1,
+            "風雷合一": 1
+        },
+        "defense": 96,
+        "resistance": [
+            2,
+            1,
+            4,
+            -3,
+            -4
+        ]
+    },
+    {
+        "name": "赫耀之腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "龍氣活化": 1,
+            "弱點特效": 2
+        },
+        "defense": 100,
+        "resistance": [
+            -2,
+            -2,
+            -2,
+            -2,
+            3
+        ]
+    },
+    {
+        "name": "神火裝【手甲】繼",
+        "type": "arms",
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "skills": {
+            "看破": 2,
+            "火場怪力": 1,
+            "精靈加護": 1
+        },
+        "defense": 108,
+        "resistance": [
+            2,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "皮製X手套",
+        "type": "arms",
+        "slots": [
+            4,
+            1,
+            0
+        ],
+        "skills": {
+            "地質學": 1,
+            "特殊射擊強化": 1
+        },
+        "defense": 108,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "鎖甲X手套",
+        "type": "arms",
+        "slots": [
+            4,
+            1,
+            0
+        ],
+        "skills": {
+            "耐力急速回復": 1,
+            "防禦": 2
+        },
+        "defense": 110,
+        "resistance": [
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "獵人X腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "收刀術": 1,
+            "匠": 1,
+            "裝填擴充": 1
+        },
+        "defense": 110,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "合金X腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            1,
+            0
+        ],
+        "skills": {
+            "水屬性攻擊強化": 1,
+            "看破": 2
+        },
+        "defense": 110,
+        "resistance": [
+            -1,
+            0,
+            -1,
+            -1,
+            0
+        ]
+    },
+    {
+        "name": "骨製X腕甲",
+        "type": "arms",
+        "slots": [
+            1,
+            1,
+            0
+        ],
+        "skills": {
+            "拔刀術【力】": 2,
+            "奪取耐力": 1,
+            "跑者": 1
+        },
+        "defense": 110,
+        "resistance": [
+            0,
+            0,
+            0,
+            -1,
+            0
+        ]
+    },
+    {
+        "name": "原角龍X腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            2,
+            0
+        ],
+        "skills": {
+            "砲術": 2,
+            "砲彈裝填": 1,
+            "特殊射擊強化": 1
+        },
+        "defense": 118,
+        "resistance": [
+            2,
+            0,
+            0,
+            -2,
+            0
+        ]
+    },
+    {
+        "name": "飛甲蟲X護手",
+        "type": "arms",
+        "slots": [
+            4,
+            0,
+            0
+        ],
+        "skills": {
+            "毒屬性強化": 2,
+            "迴避性能": 2
+        },
+        "defense": 112,
+        "resistance": [
+            -2,
+            0,
+            0,
+            0,
+            2
+        ]
+    },
+    {
+        "name": "巨甲蟲腕甲",
+        "type": "arms",
+        "slots": [
+            4,
+            2,
+            0
+        ],
+        "skills": {
+            "龍屬性攻擊強化": 1,
+            "抑制偏移": 2
+        },
+        "defense": 114,
+        "resistance": [
+            -1,
+            -1,
+            -1,
+            -1,
+            4
+        ]
+    },
+    {
+        "name": "巨蜂腕甲",
+        "type": "arms",
+        "slots": [
+            3,
+            0,
+            0
+        ],
+        "skills": {
+            "麻痺屬性強化": 2,
+            "騎乘名人": 1
+        },
+        "defense": 112,
+        "resistance": [
+            -2,
+            1,
+            1,
+            1,
+            2
+        ]
+    },
+    {
+        "name": "狗龍皮臂甲X",
+        "type": "arms",
+        "slots": [
+            1,
+            1,
+            0
+        ],
+        "skills": {
+            "攻擊": 3
+        },
+        "defense": 118,
+        "resistance": [
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "name": "迅猛龍腕甲",
+        "type": "arms",
+        "slots": [
+            3,
+            1,
+            0
+        ],
+        "skills": {
+            "攻擊": 2
+        },
+        "defense": 114,
+        "resistance": [
+            0,
+            0,
+            0,
+            -2,
+            0
+        ]
+    },
+    {
+        "name": "鐮鼬龍X腕甲",
+        "type": "arms",
+        "slots": [
+            1,
+            1,
+            0
+        ],
+        "skills": {
+            "體術": 2,
+            "迴避性能": 1
+        },
+        "defense": 114,
+        "resistance": [
+            2,
+            -1,
+            -2,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "眠狗龍X腕甲",
+        "type": "arms",
+        "slots": [
+            4,
+            1,
+            0
+        ],
+        "skills": {
+            "睡眠耐性": 2,
+            "睡眠屬性強化": 1
+        },
+        "defense": 114,
+        "resistance": [
+            -4,
+            -1,
+            -1,
+            2,
+            1
+        ]
+    },
+    {
+        "name": "搔鳥X腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            1,
+            0
+        ],
+        "skills": {
+            "KO術": 1,
+            "奪取耐力": 2,
+            "收刀術": 1
+        },
+        "defense": 114,
+        "resistance": [
+            0,
+            -3,
+            0,
+            1,
+            0
+        ]
+    },
+    {
+        "name": "毒狗龍X腕甲",
+        "type": "arms",
+        "slots": [
+            4,
+            0,
+            0
+        ],
+        "skills": {
+            "裝填擴充": 1,
+            "毒耐性": 2,
+            "心眼": 2
+        },
+        "defense": 116,
+        "resistance": [
+            2,
+            -2,
+            1,
+            -4,
+            0
+        ]
+    },
+    {
+        "name": "青熊獸X腕甲",
+        "type": "arms",
+        "slots": [
+            1,
+            1,
+            0
+        ],
+        "skills": {
+            "逆襲": 1,
+            "防禦": 1,
+            "怨恨": 2
+        },
+        "defense": 114,
+        "resistance": [
+            -2,
+            0,
+            -2,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "白兔獸X腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            1,
+            0
+        ],
+        "skills": {
+            "看破": 2,
+            "冰屬性攻擊強化": 3
+        },
+        "defense": 114,
+        "resistance": [
+            -3,
+            1,
+            0,
+            3,
+            0
+        ]
+    },
+    {
+        "name": "赤甲獸X腕甲",
+        "type": "arms",
+        "slots": [
+            1,
+            1,
+            1
+        ],
+        "skills": {
+            "迴避距離UP": 1,
+            "麻痺屬性強化": 1,
+            "耳塞": 1
+        },
+        "defense": 122,
+        "resistance": [
+            2,
+            -3,
+            0,
+            -1,
+            1
+        ]
+    },
+    {
+        "name": "傘鳥X腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            1,
+            1
+        ],
+        "skills": {
+            "無傷": 1,
+            "火屬性攻擊強化": 2,
+            "會心擊【屬性】": 1
+        },
+        "defense": 116,
+        "resistance": [
+            3,
+            -3,
+            -1,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "水獸X腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            2,
+            1
+        ],
+        "skills": {
+            "跑者": 1,
+            "強化持續": 1,
+            "彈藥節約": 1
+        },
+        "defense": 120,
+        "resistance": [
+            -3,
+            4,
+            -1,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "土砂龍X腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            1,
+            0
+        ],
+        "skills": {
+            "攻擊": 2,
+            "滑走強化": 1,
+            "攻擊守勢": 1,
+            "散彈・擴散箭強化": 1
+        },
+        "defense": 122,
+        "resistance": [
+            -3,
+            -1,
+            3,
+            -1,
+            0
+        ]
+    },
+    {
+        "name": "大名蟹腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "防禦性能": 2,
+            "防禦強化": 1,
+            "通常彈・連射箭強化": 2
+        },
+        "defense": 122,
+        "resistance": [
+            -5,
+            1,
+            -3,
+            -1,
+            2
+        ]
+    },
+    {
+        "name": "河童蛙X腕甲",
+        "type": "arms",
+        "slots": [
+            1,
+            1,
+            0
+        ],
+        "skills": {
+            "火場怪力": 2,
+            "特殊射擊強化": 2,
+            "飢餓耐性": 1
+        },
+        "defense": 118,
+        "resistance": [
+            -1,
+            4,
+            -2,
+            1,
+            0
+        ]
+    },
+    {
+        "name": "鑄鐵X腕甲",
+        "type": "arms",
+        "slots": [
+            4,
+            2,
+            0
+        ],
+        "skills": {
+            "雷屬性攻擊強化": 3
+        },
+        "defense": 114,
+        "resistance": [
+            -1,
+            -1,
+            1,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "毒蠍X護袖",
+        "type": "arms",
+        "slots": [
+            4,
+            1,
+            1
+        ],
+        "skills": {
+            "力量解放": 1,
+            "毒耐性": 1
+        },
+        "defense": 118,
+        "resistance": [
+            3,
+            -1,
+            -1,
+            -1,
+            3
+        ]
+    },
+    {
+        "name": "毒蛛X護袖",
+        "type": "arms",
+        "slots": [
+            4,
+            1,
+            1
+        ],
+        "skills": {
+            "力量解放": 1,
+            "毒耐性": 1
+        },
+        "defense": 118,
+        "resistance": [
+            3,
+            -1,
+            -1,
+            -1,
+            3
+        ]
+    },
+    {
+        "name": "高貴X枝葉",
+        "type": "arms",
+        "slots": [
+            2,
+            1,
+            0
+        ],
+        "skills": {
+            "捕獲名人": 1,
+            "廣域化": 3
+        },
+        "defense": 116,
+        "resistance": [
+            -1,
+            3,
+            -1,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "貝殼X拳套",
+        "type": "arms",
+        "slots": [
+            1,
+            1,
+            0
+        ],
+        "skills": {
+            "散彈・擴散箭強化": 2,
+            "通常彈・連射箭強化": 1
+        },
+        "defense": 116,
+        "resistance": [
+            0,
+            2,
+            1,
+            -1,
+            0
+        ]
+    },
+    {
+        "name": "花瓣X枝葉",
+        "type": "arms",
+        "slots": [
+            4,
+            2,
+            0
+        ],
+        "skills": {
+            "麻痺耐性": 1,
+            "植生學": 1,
+            "體力回復量UP": 1
+        },
+        "defense": 112,
+        "resistance": [
+            0,
+            1,
+            3,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "五行之護臂",
+        "type": "arms",
+        "slots": [
+            4,
+            0,
+            0
+        ],
+        "skills": {
+            "精靈加護": 1,
+            "彈道強化": 2
+        },
+        "defense": 120,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            3
+        ]
+    },
+    {
+        "name": "輕裝騎士【手甲】",
+        "type": "arms",
+        "slots": [
+            2,
+            1,
+            0
+        ],
+        "skills": {
+            "防禦強化": 3,
+            "減輕膽怯": 2
+        },
+        "defense": 116,
+        "resistance": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "name": "結雲之護臂",
+        "type": "arms",
+        "slots": [
+            1,
+            1,
+            1
+        ],
+        "skills": {
+            "看破": 2,
+            "迴避性能": 2
+        },
+        "defense": 112,
+        "resistance": [
+            0,
+            0,
+            2,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "奇怪龍X腕甲",
+        "type": "arms",
+        "slots": [
+            4,
+            1,
+            0
+        ],
+        "skills": {
+            "飛簷走壁": 1,
+            "回復速度": 1,
+            "雷屬性攻擊強化": 3
+        },
+        "defense": 116,
+        "resistance": [
+            -4,
+            1,
+            4,
+            2,
+            1
+        ]
+    },
+    {
+        "name": "天狗獸X腕甲",
+        "type": "arms",
+        "slots": [
+            4,
+            0,
+            0
+        ],
+        "skills": {
+            "道具使用強化": 1,
+            "昏厥耐性": 1,
+            "快吃": 1
+        },
+        "defense": 116,
+        "resistance": [
+            -2,
+            2,
+            2,
+            -4,
+            2
+        ]
+    },
+    {
+        "name": "緋天狗獸腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            1,
+            0
+        ],
+        "skills": {
+            "力量解放": 3,
+            "收刀術": 1
+        },
+        "defense": 116,
+        "resistance": [
+            2,
+            -4,
+            -2,
+            0,
+            2
+        ]
+    },
+    {
+        "name": "毒妖鳥X腕甲",
+        "type": "arms",
+        "slots": [
+            3,
+            0,
+            0
+        ],
+        "skills": {
+            "彈藥節約": 1,
+            "彈道強化": 2
+        },
+        "defense": 116,
+        "resistance": [
+            0,
+            3,
+            -3,
+            0,
+            1
+        ]
+    },
+    {
+        "name": "泥魚龍X腕甲",
+        "type": "arms",
+        "slots": [
+            3,
+            2,
+            1
+        ],
+        "skills": {
+            "怨恨": 2
+        },
+        "defense": 116,
+        "resistance": [
+            -1,
+            2,
+            -3,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "岩龍X腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            1,
+            0
+        ],
+        "skills": {
+            "防禦性能": 3,
+            "砥石使用高速化": 1
+        },
+        "defense": 120,
+        "resistance": [
+            0,
+            -2,
+            1,
+            1,
+            -3
+        ]
+    },
+    {
+        "name": "人魚龍X腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "炸彈客": 2,
+            "精靈加護": 1,
+            "彈藥節約": 2,
+            "匠": 1
+        },
+        "defense": 116,
+        "resistance": [
+            -1,
+            2,
+            -3,
+            0,
+            1
+        ]
+    },
+    {
+        "name": "冰人魚龍腕甲",
+        "type": "arms",
+        "slots": [
+            4,
+            1,
+            0
+        ],
+        "skills": {
+            "會心擊【屬性】": 1,
+            "達人藝": 1,
+            "冰屬性攻擊強化": 1
+        },
+        "defense": 124,
+        "resistance": [
+            -3,
+            1,
+            -1,
+            3,
+            2
+        ]
+    },
+    {
+        "name": "雌火龍X腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            1,
+            0
+        ],
+        "skills": {
+            "屬性異常狀態的耐性": 1,
+            "廣域化": 2,
+            "滿足感": 1
+        },
+        "defense": 116,
+        "resistance": [
+            3,
+            0,
+            -2,
+            0,
+            -3
+        ]
+    },
+    {
+        "name": "飛雷龍X腕甲",
+        "type": "arms",
+        "slots": [
+            3,
+            0,
+            0
+        ],
+        "skills": {
+            "體術": 3,
+            "不屈": 1
+        },
+        "defense": 116,
+        "resistance": [
+            0,
+            -3,
+            3,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "蠻顎龍X腕甲",
+        "type": "arms",
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "skills": {
+            "KO術": 2,
+            "攻擊": 2,
+            "挑戰者": 1
+        },
+        "defense": 118,
+        "resistance": [
+            3,
+            -3,
+            -1,
+            -1,
+            0
+        ]
+    },
+    {
+        "name": "杜賓X腕甲",
+        "type": "arms",
+        "slots": [
+            3,
+            1,
+            1
+        ],
+        "skills": {
+            "龍屬性攻擊強化": 1,
+            "強化持續": 2,
+            "後座力減輕": 2
+        },
+        "defense": 120,
+        "resistance": [
+            -2,
+            0,
+            0,
+            0,
+            4
+        ]
+    },
+    {
+        "name": "海境X腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            1,
+            0
+        ],
+        "skills": {
+            "通常彈・連射箭強化": 2,
+            "飢餓耐性": 1,
+            "利刃": 2
+        },
+        "defense": 116,
+        "resistance": [
+            0,
+            3,
+            -2,
+            -1,
+            0
+        ]
+    },
+    {
+        "name": "南瓜X枝葉",
+        "type": "arms",
+        "slots": [
+            4,
+            1,
+            1
+        ],
+        "skills": {
+            "爆破異常狀態的耐性": 1,
+            "減輕膽怯": 2,
+            "會心擊【屬性】": 1
+        },
+        "defense": 116,
+        "resistance": [
+            -3,
+            1,
+            0,
+            3,
+            0
+        ]
+    },
+    {
+        "name": "死神X雙手",
+        "type": "arms",
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "精神抖擻": 2,
+            "攻擊": 1
+        },
+        "defense": 126,
+        "resistance": [
+            3,
+            1,
+            1,
+            -1,
+            0
+        ]
+    },
+    {
+        "name": "魚鱗X袖",
+        "type": "arms",
+        "slots": [
+            2,
+            2,
+            0
+        ],
+        "skills": {
+            "泡沫之舞": 1,
+            "飛身躍入": 1,
+            "死裡逃生": 1
+        },
+        "defense": 120,
+        "resistance": [
+            1,
+            2,
+            -2,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "鍬形X護袖",
+        "type": "arms",
+        "slots": [
+            3,
+            0,
+            0
+        ],
+        "skills": {
+            "迴避性能": 2,
+            "看破": 1
+        },
+        "defense": 126,
+        "resistance": [
+            -2,
+            0,
+            3,
+            -2,
+            2
+        ]
+    },
+    {
+        "name": "鳳蝶X護袖",
+        "type": "arms",
+        "slots": [
+            3,
+            0,
+            0
+        ],
+        "skills": {
+            "迴避性能": 2,
+            "看破": 1
+        },
+        "defense": 126,
+        "resistance": [
+            -2,
+            0,
+            3,
+            -2,
+            2
+        ]
+    },
+    {
+        "name": "砲術隊【臂甲】",
+        "type": "arms",
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "skills": {
+            "裝填擴充": 1,
+            "裝填速度": 1,
+            "砲術": 2
+        },
+        "defense": 122,
+        "resistance": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "name": "公會詩人腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            1,
+            0
+        ],
+        "skills": {
+            "迴避性能": 1,
+            "最愛菇類": 1,
+            "幸運": 1
+        },
+        "defense": 120,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "學識手套",
+        "type": "arms",
+        "slots": [
+            2,
+            1,
+            0
+        ],
+        "skills": {
+            "迴避性能": 1,
+            "最愛菇類": 1,
+            "幸運": 1
+        },
+        "defense": 120,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "守護者腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            2,
+            1
+        ],
+        "skills": {
+            "防禦性能": 1,
+            "砥石使用高速化": 1,
+            "耳塞": 1
+        },
+        "defense": 124,
+        "resistance": [
+            2,
+            0,
+            0,
+            2,
+            3
+        ]
+    },
+    {
+        "name": "旅團X腕甲",
+        "type": "arms",
+        "slots": [
+            3,
+            3,
+            0
+        ],
+        "skills": {
+            "地質學": 2,
+            "款待": 1,
+            "精靈加護": 1
+        },
+        "defense": 122,
+        "resistance": [
+            1,
+            0,
+            2,
+            0,
+            2
+        ]
+    },
+    {
+        "name": "冰牙龍X腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            1,
+            0
+        ],
+        "skills": {
+            "收刀術": 1,
+            "精神抖擻": 1,
+            "看破": 2
+        },
+        "defense": 124,
+        "resistance": [
+            -5,
+            0,
+            -1,
+            3,
+            0
+        ]
+    },
+    {
+        "name": "禍鎧・真【臂甲】",
+        "type": "arms",
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "鬼火纏身": 1,
+            "匠": 2,
+            "裝填擴充": 2
+        },
+        "defense": 126,
+        "resistance": [
+            3,
+            -3,
+            -2,
+            1,
+            1
+        ]
+    },
+    {
+        "name": "迅龍X腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            1,
+            0
+        ],
+        "skills": {
+            "迴避性能": 1,
+            "迴避距離UP": 1,
+            "體術": 2
+        },
+        "defense": 124,
+        "resistance": [
+            -2,
+            1,
+            -3,
+            1,
+            1
+        ]
+    },
+    {
+        "name": "雪鬼獸X腕甲",
+        "type": "arms",
+        "slots": [
+            4,
+            0,
+            0
+        ],
+        "skills": {
+            "拔刀術【技】": 1,
+            "拔刀術【力】": 1,
+            "收刀術": 1
+        },
+        "defense": 122,
+        "resistance": [
+            -4,
+            1,
+            -1,
+            4,
+            0
+        ]
+    },
+    {
+        "name": "剛纏獸腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            2,
+            1
+        ],
+        "skills": {
+            "蓄力大師": 1,
+            "集中": 2
+        },
+        "defense": 128,
+        "resistance": [
+            -1,
+            3,
+            -2,
+            0,
+            2
+        ]
+    },
+    {
+        "name": "將軍蟹腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "研磨術【銳】": 1,
+            "無傷": 1,
+            "看破": 2,
+            "貫通彈・貫通箭強化": 1
+        },
+        "defense": 124,
+        "resistance": [
+            -3,
+            1,
+            -4,
+            -1,
+            2
+        ]
+    },
+    {
+        "name": "泥翁龍X腕甲",
+        "type": "arms",
+        "slots": [
+            4,
+            1,
+            0
+        ],
+        "skills": {
+            "高速變形": 1,
+            "迴避性能": 2
+        },
+        "defense": 124,
+        "resistance": [
+            -4,
+            3,
+            3,
+            -2,
+            -2
+        ]
+    },
+    {
+        "name": "熔翁龍腕甲",
+        "type": "arms",
+        "slots": [
+            3,
+            0,
+            0
+        ],
+        "skills": {
+            "怨恨": 1,
+            "防禦強化": 2,
+            "火場怪力": 1
+        },
+        "defense": 128,
+        "resistance": [
+            5,
+            -5,
+            0,
+            -4,
+            0
+        ]
+    },
+    {
+        "name": "妃蜘蛛X腕甲",
+        "type": "arms",
+        "slots": [
+            4,
+            0,
+            0
+        ],
+        "skills": {
+            "體術": 2,
+            "耐力急速回復": 1
+        },
+        "defense": 124,
+        "resistance": [
+            4,
+            -2,
+            -1,
+            -3,
+            0
+        ]
+    },
+    {
+        "name": "熾妃蜘蛛腕甲",
+        "type": "arms",
+        "slots": [
+            4,
+            0,
+            0
+        ],
+        "skills": {
+            "精神抖擻": 1,
+            "高速變形": 2,
+            "爆破異常狀態的耐性": 1,
+            "槍械改良": 1
+        },
+        "defense": 128,
+        "resistance": [
+            2,
+            -4,
+            2,
+            -2,
+            2
+        ]
+    },
+    {
+        "name": "恩寵腕甲",
+        "type": "arms",
+        "slots": [
+            1,
+            1,
+            1
+        ],
+        "skills": {
+            "回復速度": 3,
+            "力量解放": 2,
+            "攻擊": 1
+        },
+        "defense": 128,
+        "resistance": [
+            0,
+            0,
+            0,
+            3,
+            0
+        ]
+    },
+    {
+        "name": "巴爾巴尼亞手套",
+        "type": "arms",
+        "slots": [
+            2,
+            1,
+            1
+        ],
+        "skills": {
+            "弱點特效": 1,
+            "破壞王": 1,
+            "幸運": 1
+        },
+        "defense": 126,
+        "resistance": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "name": "倪泰表【手甲】真",
+        "type": "arms",
+        "slots": [
+            4,
+            0,
+            0
+        ],
+        "skills": {
+            "廣域化": 2,
+            "體力回復量UP": 1
+        },
+        "defense": 126,
+        "resistance": [
+            3,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "依巫・燿【花袖】",
+        "type": "arms",
+        "slots": [
+            4,
+            0,
+            0
+        ],
+        "skills": {
+            "廣域化": 2,
+            "體力回復量UP": 1
+        },
+        "defense": 126,
+        "resistance": [
+            3,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "倪泰裡【手甲】真",
+        "type": "arms",
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "迴避性能": 1,
+            "翔蟲能手": 1,
+            "攻擊": 2
+        },
+        "defense": 126,
+        "resistance": [
+            3,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "神凪・洸【花袖】",
+        "type": "arms",
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "迴避性能": 1,
+            "翔蟲能手": 1,
+            "攻擊": 2
+        },
+        "defense": 126,
+        "resistance": [
+            3,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "重裝騎士【手甲】",
+        "type": "arms",
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "防禦性能": 2,
+            "防禦強化": 1,
+            "利刃": 1
+        },
+        "defense": 130,
+        "resistance": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "name": "獵鷹手套",
+        "type": "arms",
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "快吃": 1,
+            "收刀術": 2,
+            "弱點特效": 1
+        },
+        "defense": 126,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "心智手套",
+        "type": "arms",
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "快吃": 1,
+            "收刀術": 2,
+            "弱點特效": 1
+        },
+        "defense": 126,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "端莊護手",
+        "type": "arms",
+        "slots": [
+            3,
+            0,
+            0
+        ],
+        "skills": {
+            "高速變形": 1,
+            "迴避性能": 2,
+            "利刃": 1
+        },
+        "defense": 128,
+        "resistance": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "name": "翼蛇龍X手套",
+        "type": "arms",
+        "slots": [
+            4,
+            1,
+            1
+        ],
+        "skills": {
+            "會心擊【屬性】": 1,
+            "風壓耐性": 2
+        },
+        "defense": 128,
+        "resistance": [
+            1,
+            1,
+            1,
+            1,
+            3
+        ]
+    },
+    {
+        "name": "泡狐龍X腕甲",
+        "type": "arms",
+        "slots": [
+            4,
+            1,
+            1
+        ],
+        "skills": {
+            "死裡逃生": 1,
+            "滿足感": 2
+        },
+        "defense": 130,
+        "resistance": [
+            0,
+            2,
+            -3,
+            1,
+            -1
+        ]
+    },
+    {
+        "name": "火龍X腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "攻擊": 2,
+            "耳塞": 2
+        },
+        "defense": 130,
+        "resistance": [
+            3,
+            1,
+            -2,
+            1,
+            -3
+        ]
+    },
+    {
+        "name": "雷狼龍X腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "力量解放": 1,
+            "體術": 2,
+            "會心擊【屬性】": 1
+        },
+        "defense": 132,
+        "resistance": [
+            0,
+            -1,
+            4,
+            -4,
+            1
+        ]
+    },
+    {
+        "name": "冰狼龍腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            1,
+            0
+        ],
+        "skills": {
+            "挑戰者": 3,
+            "翔蟲能手": 1
+        },
+        "defense": 130,
+        "resistance": [
+            -4,
+            2,
+            -1,
+            4,
+            -1
+        ]
+    },
+    {
+        "name": "電龍腕甲",
+        "type": "arms",
+        "slots": [
+            4,
+            1,
+            0
+        ],
+        "skills": {
+            "連擊": 1,
+            "耐力急速回復": 1,
+            "昏厥耐性": 1
+        },
+        "defense": 130,
+        "resistance": [
+            0,
+            -1,
+            4,
+            -3,
+            0
+        ]
+    },
+    {
+        "name": "棘龍雙手",
+        "type": "arms",
+        "slots": [
+            4,
+            0,
+            0
+        ],
+        "skills": {
+            "攻勢": 1,
+            "剛刃研磨": 2,
+            "速射強化": 1
+        },
+        "defense": 132,
+        "resistance": [
+            3,
+            -1,
+            2,
+            -3,
+            -2
+        ]
+    },
+    {
+        "name": "黑蝕龍腕甲",
+        "type": "arms",
+        "slots": [
+            4,
+            0,
+            0
+        ],
+        "skills": {
+            "轉禍為福": 1,
+            "快吃": 2
+        },
+        "defense": 128,
+        "resistance": [
+            -2,
+            3,
+            -1,
+            2,
+            -1
+        ]
+    },
+    {
+        "name": "千刃龍腕甲",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "匠": 3
+        },
+        "defense": 130,
+        "resistance": [
+            4,
+            0,
+            -3,
+            -2,
+            0
+        ]
+    },
+    {
+        "name": "轟龍X腕甲",
+        "type": "arms",
+        "slots": [
+            4,
+            0,
+            0
+        ],
+        "skills": {
+            "心眼": 1,
+            "無傷": 1,
+            "昏厥耐性": 3,
+            "通常彈・連射箭強化": 1
+        },
+        "defense": 134,
+        "resistance": [
+            2,
+            0,
+            -3,
+            0,
+            -2
+        ]
+    },
+    {
+        "name": "角龍X腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            1,
+            0
+        ],
+        "skills": {
+            "攻擊守勢": 2,
+            "耐力急速回復": 1,
+            "貫通彈・貫通箭強化": 2
+        },
+        "defense": 134,
+        "resistance": [
+            3,
+            -1,
+            -1,
+            -3,
+            -1
+        ]
+    },
+    {
+        "name": "大馬士革X腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            1,
+            0
+        ],
+        "skills": {
+            "耳塞": 2,
+            "屬性異常狀態的耐性": 1
+        },
+        "defense": 128,
+        "resistance": [
+            -1,
+            2,
+            -3,
+            1,
+            -1
+        ]
+    },
+    {
+        "name": "歌德X手套",
+        "type": "arms",
+        "slots": [
+            3,
+            1,
+            0
+        ],
+        "skills": {
+            "精靈加護": 2,
+            "集中": 1,
+            "KO術": 1
+        },
+        "defense": 128,
+        "resistance": [
+            1,
+            3,
+            0,
+            2,
+            0
+        ]
+    },
+    {
+        "name": "教授手套",
+        "type": "arms",
+        "slots": [
+            2,
+            2,
+            1
+        ],
+        "skills": {
+            "精靈加護": 3,
+            "飢餓耐性": 1
+        },
+        "defense": 128,
+        "resistance": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "name": "博愛護手",
+        "type": "arms",
+        "slots": [
+            2,
+            2,
+            1
+        ],
+        "skills": {
+            "精靈加護": 3,
+            "飢餓耐性": 1
+        },
+        "defense": 128,
+        "resistance": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "name": "賢者腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            2,
+            1
+        ],
+        "skills": {
+            "體力回復量UP": 3,
+            "滿足感": 1
+        },
+        "defense": 128,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "追蹤者手套",
+        "type": "arms",
+        "slots": [
+            1,
+            1,
+            1
+        ],
+        "skills": {
+            "快吃": 3,
+            "最愛菇類": 1
+        },
+        "defense": 128,
+        "resistance": [
+            2,
+            2,
+            2,
+            2,
+            2
+        ]
+    },
+    {
+        "name": "水兵手套",
+        "type": "arms",
+        "slots": [
+            3,
+            0,
+            0
+        ],
+        "skills": {
+            "集中": 3,
+            "翔蟲能手": 1
+        },
+        "defense": 128,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "公會宮殿腕甲",
+        "type": "arms",
+        "slots": [
+            4,
+            0,
+            0
+        ],
+        "skills": {
+            "挑戰者": 2,
+            "轉禍為福": 1,
+            "飛簷走壁【翔】": 1
+        },
+        "defense": 132,
+        "resistance": [
+            1,
+            2,
+            2,
+            1,
+            1
+        ]
+    },
+    {
+        "name": "鋼龍X剛強",
+        "type": "arms",
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "skills": {
+            "鋼殼之恩惠": 2,
+            "挑戰者": 2
+        },
+        "defense": 134,
+        "resistance": [
+            -1,
+            2,
+            -2,
+            3,
+            -3
+        ]
+    },
+    {
+        "name": "霞龍真【大袖】",
+        "type": "arms",
+        "slots": [
+            2,
+            2,
+            0
+        ],
+        "skills": {
+            "霞皮之恩惠": 1,
+            "毒屬性強化": 2,
+            "迴避性能": 2
+        },
+        "defense": 134,
+        "resistance": [
+            -5,
+            1,
+            0,
+            3,
+            -3
+        ]
+    },
+    {
+        "name": "帝王X腕甲",
+        "type": "arms",
+        "slots": [
+            3,
+            0,
+            0
+        ],
+        "skills": {
+            "炎鱗之恩惠": 1,
+            "看破": 1,
+            "超會心": 1
+        },
+        "defense": 134,
+        "resistance": [
+            4,
+            -4,
+            1,
+            -1,
+            -3
+        ]
+    },
+    {
+        "name": "爵銀龍腕甲",
+        "type": "arms",
+        "slots": [
+            4,
+            0,
+            0
+        ],
+        "skills": {
+            "翔蟲能手": 1,
+            "攻擊": 2,
+            "屬性異常狀態的耐性": 1
+        },
+        "defense": 134,
+        "resistance": [
+            -2,
+            2,
+            2,
+            -1,
+            -5
+        ]
+    },
+    {
+        "name": "方舟腕甲",
+        "type": "arms",
+        "slots": [
+            4,
+            0,
+            0
+        ],
+        "skills": {
+            "會心擊【屬性】": 2,
+            "死裡逃生": 1
+        },
+        "defense": 134,
+        "resistance": [
+            -2,
+            2,
+            -1,
+            2,
+            -4
+        ]
+    },
+    {
+        "name": "友愛腕甲",
+        "type": "arms",
+        "slots": [
+            4,
+            0,
+            0
+        ],
+        "skills": {
+            "會心擊【屬性】": 2,
+            "死裡逃生": 1
+        },
+        "defense": 134,
+        "resistance": [
+            -2,
+            2,
+            -1,
+            2,
+            -4
+        ]
+    },
+    {
+        "name": "齊天臂甲・真",
+        "type": "arms",
+        "slots": [
+            4,
+            1,
+            0
+        ],
+        "skills": {
+            "火場怪力": 1,
+            "力量解放": 2
+        },
+        "defense": 130,
+        "resistance": [
+            2,
+            1,
+            3,
+            -5,
+            2
+        ]
+    },
+    {
+        "name": "爆鱗龍X腕甲",
+        "type": "arms",
+        "slots": [
+            2,
+            2,
+            0
+        ],
+        "skills": {
+            "防禦強化": 1,
+            "防禦性能": 1,
+            "挑戰者": 2
+        },
+        "defense": 132,
+        "resistance": [
+            3,
+            1,
+            -4,
+            -2,
+            -2
+        ]
+    },
+    {
+        "name": "據點司令【手甲】",
+        "type": "arms",
+        "slots": [
+            4,
+            1,
+            0
+        ],
+        "skills": {
+            "蓄力大師": 2,
+            "收刀術": 1
+        },
+        "defense": 130,
+        "resistance": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "name": "冥淵纏鎧憤怒之棘",
+        "type": "arms",
+        "slots": [
+            4,
+            0,
+            0
+        ],
+        "skills": {
+            "伏魔響命": 2,
+            "怨恨": 1
+        },
+        "defense": 138,
+        "resistance": [
+            0,
+            3,
+            -2,
+            3,
+            -5
+        ]
+    },
+    {
+        "name": "龍捲之臂真",
+        "type": "arms",
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "風紋一致": 1,
+            "體術": 1,
+            "耐力急速回復": 1,
+            "風雷合一": 1
+        },
+        "defense": 134,
+        "resistance": [
+            -1,
+            0,
+            0,
+            0,
+            -2
+        ]
+    },
+    {
+        "name": "鳴神之臂真",
+        "type": "arms",
+        "slots": [
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "雷紋一致": 1,
+            "防禦性能": 1,
+            "破壞王": 1,
+            "風雷合一": 1
+        },
+        "defense": 134,
+        "resistance": [
+            2,
+            1,
+            4,
+            -3,
+            -4
+        ]
+    },
+    {
+        "name": "怒天臂甲",
+        "type": "arms",
+        "slots": [
+            4,
+            0,
+            0
+        ],
+        "skills": {
+            "激昂": 1,
+            "看破": 2
+        },
+        "defense": 134,
+        "resistance": [
+            2,
+            1,
+            3,
+            -5,
+            2
+        ]
+    },
+    {
+        "name": "赫耀之腕甲・真",
+        "type": "arms",
+        "slots": [
+            4,
+            0,
+            0
+        ],
+        "skills": {
+            "龍氣活化": 1,
+            "弱點特效": 2
+        },
+        "defense": 136,
+        "resistance": [
+            -2,
+            -2,
+            -2,
+            -2,
+            3
+        ]
+    },
+    {
+        "name": "禍鎧・怨【臂甲】",
+        "type": "arms",
+        "slots": [
+            3,
+            2,
+            0
+        ],
+        "skills": {
+            "業鎧【修羅】": 1,
+            "逆襲": 1,
+            "合氣": 1
+        },
+        "defense": 136,
+        "resistance": [
+            3,
+            -3,
+            -2,
+            1,
+            1
+        ]
+    },
+    {
+        "name": "公會十字腕甲",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "地質學": 1,
+            "飛簷走壁": 1
+        },
+        "defense": 24,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "黑帶腕甲",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "攻擊": 1,
+            "體力回復量UP": 1
+        },
+        "defense": 36,
+        "resistance": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "name": "蒼世武士【袖】",
+        "type": "arms",
+        "slots": [
+            1,
+            0,
+            0
+        ],
+        "skills": {
+            "體術": 1,
+            "弱點特效": 1,
+            "會心擊【屬性】": 2
+        },
+        "defense": 92,
+        "resistance": [
+            2,
+            2,
+            0,
+            0,
+            2
+        ]
+    },
+    {
+        "name": "黑帶S腕甲",
+        "type": "arms",
+        "slots": [
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "攻擊": 1,
+            "體力回復量UP": 1,
+            "體術": 1
+        },
+        "defense": 72,
+        "resistance": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    }
+]
