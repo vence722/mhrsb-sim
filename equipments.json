@@ -5498,7 +5498,7 @@
     },
     {
         "name": "神火裝【上衣】",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -5518,7 +5518,7 @@
     },
     {
         "name": "皮製服飾",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -5538,7 +5538,7 @@
     },
     {
         "name": "鎖甲服飾",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -5559,7 +5559,7 @@
     },
     {
         "name": "獵人鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -5579,7 +5579,7 @@
     },
     {
         "name": "鐮鼬龍鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -5600,7 +5600,7 @@
     },
     {
         "name": "眠狗龍鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -5620,7 +5620,7 @@
     },
     {
         "name": "青熊獸鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -5640,7 +5640,7 @@
     },
     {
         "name": "白兔獸鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -5660,7 +5660,7 @@
     },
     {
         "name": "合金鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -5680,7 +5680,7 @@
     },
     {
         "name": "骨製鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -5700,7 +5700,7 @@
     },
     {
         "name": "混沌的鎧",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -5718,7 +5718,7 @@
     },
     {
         "name": "高貴枝幹",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -5738,7 +5738,7 @@
     },
     {
         "name": "毒蠍上身",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -5758,7 +5758,7 @@
     },
     {
         "name": "毒蛛上身",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -5778,7 +5778,7 @@
     },
     {
         "name": "貝殼服飾",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -5798,7 +5798,7 @@
     },
     {
         "name": "垂皮龍披風",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -5818,7 +5818,7 @@
     },
     {
         "name": "原角龍鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -5839,7 +5839,7 @@
     },
     {
         "name": "水生獸鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -5859,7 +5859,7 @@
     },
     {
         "name": "飛甲蟲服裝",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -5879,7 +5879,7 @@
     },
     {
         "name": "搔鳥鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -5899,7 +5899,7 @@
     },
     {
         "name": "毒狗龍鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -5919,7 +5919,7 @@
     },
     {
         "name": "傘鳥鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -5939,7 +5939,7 @@
     },
     {
         "name": "水獸鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -5959,7 +5959,7 @@
     },
     {
         "name": "土砂龍鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -5980,7 +5980,7 @@
     },
     {
         "name": "奇怪龍鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -6000,7 +6000,7 @@
     },
     {
         "name": "河童蛙鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -6020,7 +6020,7 @@
     },
     {
         "name": "鑄鐵鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -6040,7 +6040,7 @@
     },
     {
         "name": "花瓣枝幹",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -6061,7 +6061,7 @@
     },
     {
         "name": "死神肌肉",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -6081,7 +6081,7 @@
     },
     {
         "name": "南瓜枝幹",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -6101,7 +6101,7 @@
     },
     {
         "name": "海境鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -6121,7 +6121,7 @@
     },
     {
         "name": "熔岩獸鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -6141,7 +6141,7 @@
     },
     {
         "name": "翼蛇龍套裝衣裝",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -6161,7 +6161,7 @@
     },
     {
         "name": "赤甲獸鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -6181,7 +6181,7 @@
     },
     {
         "name": "天狗獸鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -6201,7 +6201,7 @@
     },
     {
         "name": "毒妖鳥鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -6221,7 +6221,7 @@
     },
     {
         "name": "岩龍鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -6241,7 +6241,7 @@
     },
     {
         "name": "人魚龍鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -6261,7 +6261,7 @@
     },
     {
         "name": "雌火龍鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -6281,7 +6281,7 @@
     },
     {
         "name": "冰牙龍鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -6301,7 +6301,7 @@
     },
     {
         "name": "飛雷龍鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -6321,7 +6321,7 @@
     },
     {
         "name": "魚鱗洋裝",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -6341,7 +6341,7 @@
     },
     {
         "name": "鍬形上身",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -6362,7 +6362,7 @@
     },
     {
         "name": "鳳蝶上身",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -6383,7 +6383,7 @@
     },
     {
         "name": "歌德服飾",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -6403,7 +6403,7 @@
     },
     {
         "name": "倪泰表【上衣】",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -6423,7 +6423,7 @@
     },
     {
         "name": "依巫【白衣】",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -6443,7 +6443,7 @@
     },
     {
         "name": "倪泰裡【上衣】",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -6464,7 +6464,7 @@
     },
     {
         "name": "神凪【白衣】",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -6485,7 +6485,7 @@
     },
     {
         "name": "旅團戰衣",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -6505,7 +6505,7 @@
     },
     {
         "name": "禍鎧【胸甲】",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -6526,7 +6526,7 @@
     },
     {
         "name": "蠻顎龍鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -6547,7 +6547,7 @@
     },
     {
         "name": "迅龍鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -6567,7 +6567,7 @@
     },
     {
         "name": "泡狐龍鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -6588,7 +6588,7 @@
     },
     {
         "name": "火龍鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -6609,7 +6609,7 @@
     },
     {
         "name": "雷狼龍鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -6630,7 +6630,7 @@
     },
     {
         "name": "雪鬼獸鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -6650,7 +6650,7 @@
     },
     {
         "name": "泥翁龍鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -6670,7 +6670,7 @@
     },
     {
         "name": "轟龍鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -6691,7 +6691,7 @@
     },
     {
         "name": "角龍鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -6711,7 +6711,7 @@
     },
     {
         "name": "神火裝【上衣】霸",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             0,
@@ -6733,7 +6733,7 @@
     },
     {
         "name": "皮製S服飾",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             0,
@@ -6753,7 +6753,7 @@
     },
     {
         "name": "鎖甲S服飾",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             0,
@@ -6774,7 +6774,7 @@
     },
     {
         "name": "獵人S鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             0,
@@ -6795,7 +6795,7 @@
     },
     {
         "name": "合金S鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             0,
@@ -6815,7 +6815,7 @@
     },
     {
         "name": "骨製S鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             0,
@@ -6836,7 +6836,7 @@
     },
     {
         "name": "毒蠍S上身",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             0,
@@ -6856,7 +6856,7 @@
     },
     {
         "name": "毒蛛S上身",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             0,
@@ -6876,7 +6876,7 @@
     },
     {
         "name": "飛甲蟲S服裝",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             1,
@@ -6897,7 +6897,7 @@
     },
     {
         "name": "鐮鼬龍S鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             0,
@@ -6918,7 +6918,7 @@
     },
     {
         "name": "眠狗龍S鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             0,
@@ -6939,7 +6939,7 @@
     },
     {
         "name": "搔鳥S鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             0,
@@ -6960,7 +6960,7 @@
     },
     {
         "name": "毒狗龍S鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             0,
@@ -6981,7 +6981,7 @@
     },
     {
         "name": "青熊獸S鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             0,
@@ -7001,7 +7001,7 @@
     },
     {
         "name": "白兔獸S鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             1,
@@ -7022,7 +7022,7 @@
     },
     {
         "name": "傘鳥S鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             0,
@@ -7043,7 +7043,7 @@
     },
     {
         "name": "奇怪龍S鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             1,
@@ -7064,7 +7064,7 @@
     },
     {
         "name": "河童蛙S鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             0,
@@ -7085,7 +7085,7 @@
     },
     {
         "name": "鑄鐵S鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             1,
@@ -7105,7 +7105,7 @@
     },
     {
         "name": "混沌的鎧・霸",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -7125,7 +7125,7 @@
     },
     {
         "name": "高貴S枝幹",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             1,
@@ -7145,7 +7145,7 @@
     },
     {
         "name": "垂皮龍S披風",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             1,
@@ -7165,7 +7165,7 @@
     },
     {
         "name": "原角龍S鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             1,
@@ -7186,7 +7186,7 @@
     },
     {
         "name": "水生獸S鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             1,
@@ -7206,7 +7206,7 @@
     },
     {
         "name": "赤甲獸S鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             0,
@@ -7227,7 +7227,7 @@
     },
     {
         "name": "水獸S鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             0,
@@ -7247,7 +7247,7 @@
     },
     {
         "name": "土砂龍S鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             0,
@@ -7268,7 +7268,7 @@
     },
     {
         "name": "天狗獸S鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             3,
             0,
@@ -7288,7 +7288,7 @@
     },
     {
         "name": "毒妖鳥S鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             0,
@@ -7309,7 +7309,7 @@
     },
     {
         "name": "泥魚龍鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             1,
@@ -7330,7 +7330,7 @@
     },
     {
         "name": "岩龍S鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             1,
@@ -7351,7 +7351,7 @@
     },
     {
         "name": "雌火龍S鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             3,
             1,
@@ -7372,7 +7372,7 @@
     },
     {
         "name": "杜賓鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             0,
@@ -7395,7 +7395,7 @@
     },
     {
         "name": "貝殼S服飾",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             1,
@@ -7416,7 +7416,7 @@
     },
     {
         "name": "花瓣S枝幹",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             1,
@@ -7437,7 +7437,7 @@
     },
     {
         "name": "死神S肌肉",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             0,
@@ -7458,7 +7458,7 @@
     },
     {
         "name": "南瓜S枝幹",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             0,
@@ -7478,7 +7478,7 @@
     },
     {
         "name": "海境S鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             3,
             2,
@@ -7496,7 +7496,7 @@
     },
     {
         "name": "魚鱗S洋裝",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             0,
@@ -7516,7 +7516,7 @@
     },
     {
         "name": "倪泰表【上衣】霸",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             1,
@@ -7537,7 +7537,7 @@
     },
     {
         "name": "依巫・祈【白衣】",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             1,
@@ -7558,7 +7558,7 @@
     },
     {
         "name": "倪泰裡【上衣】霸",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             0,
@@ -7581,7 +7581,7 @@
     },
     {
         "name": "神凪・願【白衣】",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             0,
@@ -7604,7 +7604,7 @@
     },
     {
         "name": "熔岩獸S鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             0,
@@ -7624,7 +7624,7 @@
     },
     {
         "name": "翼蛇龍套裝S衣裝",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             1,
@@ -7644,7 +7644,7 @@
     },
     {
         "name": "人魚龍S鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             1,
@@ -7665,7 +7665,7 @@
     },
     {
         "name": "冰牙龍S鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             1,
@@ -7686,7 +7686,7 @@
     },
     {
         "name": "飛雷龍S鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             3,
             0,
@@ -7707,7 +7707,7 @@
     },
     {
         "name": "蠻顎龍S鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             1,
@@ -7728,7 +7728,7 @@
     },
     {
         "name": "迅龍S鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             1,
@@ -7749,7 +7749,7 @@
     },
     {
         "name": "泡狐龍S鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             0,
@@ -7770,7 +7770,7 @@
     },
     {
         "name": "火龍S鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             0,
@@ -7792,7 +7792,7 @@
     },
     {
         "name": "雷狼龍S鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             0,
@@ -7813,7 +7813,7 @@
     },
     {
         "name": "鍬形S上身",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             0,
@@ -7835,7 +7835,7 @@
     },
     {
         "name": "鳳蝶S上身",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             0,
@@ -7857,7 +7857,7 @@
     },
     {
         "name": "歌德S服飾",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             1,
@@ -7877,7 +7877,7 @@
     },
     {
         "name": "旅團S戰衣",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             0,
@@ -7898,7 +7898,7 @@
     },
     {
         "name": "禍鎧・霸【胸甲】",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             0,
@@ -7919,7 +7919,7 @@
     },
     {
         "name": "雪鬼獸S鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             1,
@@ -7940,7 +7940,7 @@
     },
     {
         "name": "泥翁龍S鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             0,
@@ -7961,7 +7961,7 @@
     },
     {
         "name": "轟龍S鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             1,
@@ -7982,7 +7982,7 @@
     },
     {
         "name": "角龍S鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             0,
@@ -8003,7 +8003,7 @@
     },
     {
         "name": "妃蜘蛛鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             1,
@@ -8024,7 +8024,7 @@
     },
     {
         "name": "金色羽織",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             0,
@@ -8046,7 +8046,7 @@
     },
     {
         "name": "大馬士革鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             1,
@@ -8067,7 +8067,7 @@
     },
     {
         "name": "鋼龍恐懼",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             0,
@@ -8089,7 +8089,7 @@
     },
     {
         "name": "霞龍劍裝【胸甲】",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             0,
@@ -8112,7 +8112,7 @@
     },
     {
         "name": "帝王鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             0,
@@ -8134,7 +8134,7 @@
     },
     {
         "name": "爆鱗龍鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             1,
@@ -8155,7 +8155,7 @@
     },
     {
         "name": "龍捲胸甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -8178,7 +8178,7 @@
     },
     {
         "name": "鳴神胸甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -8201,7 +8201,7 @@
     },
     {
         "name": "赫耀之鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             3,
             1,
@@ -8222,7 +8222,7 @@
     },
     {
         "name": "神火裝【上衣】繼",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             1,
@@ -8244,7 +8244,7 @@
     },
     {
         "name": "皮製X服飾",
-        "type": "torso",
+        "type": "body",
         "slots": [
             4,
             0,
@@ -8265,7 +8265,7 @@
     },
     {
         "name": "鎖甲X服飾",
-        "type": "torso",
+        "type": "body",
         "slots": [
             4,
             0,
@@ -8287,7 +8287,7 @@
     },
     {
         "name": "獵人X鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             0,
@@ -8309,7 +8309,7 @@
     },
     {
         "name": "合金X鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             3,
             0,
@@ -8330,7 +8330,7 @@
     },
     {
         "name": "骨製X鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             3,
             0,
@@ -8351,7 +8351,7 @@
     },
     {
         "name": "原角龍X鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             4,
             1,
@@ -8372,7 +8372,7 @@
     },
     {
         "name": "水生獸X鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             4,
             2,
@@ -8392,7 +8392,7 @@
     },
     {
         "name": "飛甲蟲X服裝",
-        "type": "torso",
+        "type": "body",
         "slots": [
             3,
             1,
@@ -8413,7 +8413,7 @@
     },
     {
         "name": "巨甲蟲鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             4,
             0,
@@ -8434,7 +8434,7 @@
     },
     {
         "name": "巨蜂鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             4,
             1,
@@ -8455,7 +8455,7 @@
     },
     {
         "name": "迅猛龍鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             4,
             1,
@@ -8476,7 +8476,7 @@
     },
     {
         "name": "鐮鼬龍X鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             0,
@@ -8498,7 +8498,7 @@
     },
     {
         "name": "眠狗龍X鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             4,
             0,
@@ -8519,7 +8519,7 @@
     },
     {
         "name": "搔鳥X鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             1,
@@ -8540,7 +8540,7 @@
     },
     {
         "name": "毒狗龍X鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             4,
             0,
@@ -8562,7 +8562,7 @@
     },
     {
         "name": "青熊獸X鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             4,
             0,
@@ -8583,7 +8583,7 @@
     },
     {
         "name": "白兔獸X鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             1,
@@ -8606,7 +8606,7 @@
     },
     {
         "name": "赤甲獸X鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             0,
@@ -8628,7 +8628,7 @@
     },
     {
         "name": "傘鳥X鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             1,
@@ -8650,7 +8650,7 @@
     },
     {
         "name": "水獸X鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             4,
             0,
@@ -8671,7 +8671,7 @@
     },
     {
         "name": "土砂龍X鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             4,
             0,
@@ -8693,7 +8693,7 @@
     },
     {
         "name": "大名蟹鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             0,
@@ -8716,7 +8716,7 @@
     },
     {
         "name": "河童蛙X鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             0,
@@ -8738,7 +8738,7 @@
     },
     {
         "name": "鑄鐵X鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             3,
             1,
@@ -8759,7 +8759,7 @@
     },
     {
         "name": "毒蠍X上身",
-        "type": "torso",
+        "type": "body",
         "slots": [
             3,
             0,
@@ -8780,7 +8780,7 @@
     },
     {
         "name": "毒蛛X上身",
-        "type": "torso",
+        "type": "body",
         "slots": [
             3,
             0,
@@ -8801,7 +8801,7 @@
     },
     {
         "name": "混沌的鎧・真",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             1,
@@ -8822,7 +8822,7 @@
     },
     {
         "name": "高貴X枝幹",
-        "type": "torso",
+        "type": "body",
         "slots": [
             3,
             1,
@@ -8843,7 +8843,7 @@
     },
     {
         "name": "貝殼X服飾",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             1,
@@ -8865,7 +8865,7 @@
     },
     {
         "name": "花瓣X枝幹",
-        "type": "torso",
+        "type": "body",
         "slots": [
             4,
             1,
@@ -8887,7 +8887,7 @@
     },
     {
         "name": "五行之狩衣",
-        "type": "torso",
+        "type": "body",
         "slots": [
             4,
             0,
@@ -8908,7 +8908,7 @@
     },
     {
         "name": "輕裝騎士【胸甲】",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             1,
@@ -8930,7 +8930,7 @@
     },
     {
         "name": "結雲之道服",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             0,
@@ -8951,7 +8951,7 @@
     },
     {
         "name": "垂皮龍X披風",
-        "type": "torso",
+        "type": "body",
         "slots": [
             4,
             1,
@@ -8972,7 +8972,7 @@
     },
     {
         "name": "奇怪龍X鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             1,
@@ -8993,7 +8993,7 @@
     },
     {
         "name": "天狗獸X鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             4,
             0,
@@ -9013,7 +9013,7 @@
     },
     {
         "name": "緋天狗獸鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             4,
             1,
@@ -9035,7 +9035,7 @@
     },
     {
         "name": "毒妖鳥X鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             0,
@@ -9057,7 +9057,7 @@
     },
     {
         "name": "泥魚龍X鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             1,
@@ -9080,7 +9080,7 @@
     },
     {
         "name": "岩龍X鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             1,
@@ -9102,7 +9102,7 @@
     },
     {
         "name": "人魚龍X鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             3,
             1,
@@ -9123,7 +9123,7 @@
     },
     {
         "name": "冰人魚龍鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             4,
             0,
@@ -9144,7 +9144,7 @@
     },
     {
         "name": "雌火龍X鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             4,
             1,
@@ -9166,7 +9166,7 @@
     },
     {
         "name": "飛雷龍X鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             4,
             0,
@@ -9188,7 +9188,7 @@
     },
     {
         "name": "蠻顎龍X鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             1,
@@ -9210,7 +9210,7 @@
     },
     {
         "name": "杜賓X鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             0,
@@ -9233,7 +9233,7 @@
     },
     {
         "name": "海境X鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             3,
             2,
@@ -9253,7 +9253,7 @@
     },
     {
         "name": "南瓜X枝幹",
-        "type": "torso",
+        "type": "body",
         "slots": [
             4,
             1,
@@ -9274,7 +9274,7 @@
     },
     {
         "name": "死神X肌肉",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             0,
@@ -9296,7 +9296,7 @@
     },
     {
         "name": "魚鱗X洋裝",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             1,
@@ -9318,7 +9318,7 @@
     },
     {
         "name": "鍬形X上身",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             1,
@@ -9340,7 +9340,7 @@
     },
     {
         "name": "鳳蝶X上身",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             1,
@@ -9362,7 +9362,7 @@
     },
     {
         "name": "砲術隊【上衣】",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -9384,7 +9384,7 @@
     },
     {
         "name": "公會詩人服裝",
-        "type": "torso",
+        "type": "body",
         "slots": [
             4,
             0,
@@ -9406,7 +9406,7 @@
     },
     {
         "name": "學識服裝",
-        "type": "torso",
+        "type": "body",
         "slots": [
             4,
             0,
@@ -9428,7 +9428,7 @@
     },
     {
         "name": "守護者服裝",
-        "type": "torso",
+        "type": "body",
         "slots": [
             4,
             1,
@@ -9450,7 +9450,7 @@
     },
     {
         "name": "旅團X戰衣",
-        "type": "torso",
+        "type": "body",
         "slots": [
             3,
             2,
@@ -9472,7 +9472,7 @@
     },
     {
         "name": "冰牙龍X鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             2,
@@ -9493,7 +9493,7 @@
     },
     {
         "name": "禍鎧・真【胸甲】",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             0,
@@ -9515,7 +9515,7 @@
     },
     {
         "name": "迅龍X鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             3,
             1,
@@ -9537,7 +9537,7 @@
     },
     {
         "name": "雪鬼獸X鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             1,
@@ -9558,7 +9558,7 @@
     },
     {
         "name": "剛纏獸鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             4,
             1,
@@ -9579,7 +9579,7 @@
     },
     {
         "name": "將軍蟹鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             0,
@@ -9601,7 +9601,7 @@
     },
     {
         "name": "泥翁龍X鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             4,
             0,
@@ -9622,7 +9622,7 @@
     },
     {
         "name": "熔翁龍鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             4,
             1,
@@ -9643,7 +9643,7 @@
     },
     {
         "name": "妃蜘蛛X鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             3,
             1,
@@ -9665,7 +9665,7 @@
     },
     {
         "name": "熾妃蜘蛛鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             2,
@@ -9686,7 +9686,7 @@
     },
     {
         "name": "恩寵鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             4,
             1,
@@ -9708,7 +9708,7 @@
     },
     {
         "name": "巴爾巴尼亞服飾",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             2,
@@ -9730,7 +9730,7 @@
     },
     {
         "name": "倪泰表【上衣】真",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             1,
@@ -9752,7 +9752,7 @@
     },
     {
         "name": "依巫・燿【白衣】",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             1,
@@ -9774,7 +9774,7 @@
     },
     {
         "name": "倪泰裡【上衣】真",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             0,
@@ -9797,7 +9797,7 @@
     },
     {
         "name": "神凪・洸【白衣】",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             0,
@@ -9820,7 +9820,7 @@
     },
     {
         "name": "重裝騎士【鎧甲】",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             1,
@@ -9842,7 +9842,7 @@
     },
     {
         "name": "獵鷹服裝",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             1,
@@ -9864,7 +9864,7 @@
     },
     {
         "name": "心智服裝",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             1,
@@ -9886,7 +9886,7 @@
     },
     {
         "name": "端莊外套",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             1,
@@ -9908,7 +9908,7 @@
     },
     {
         "name": "熔岩獸X鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             1,
@@ -9930,7 +9930,7 @@
     },
     {
         "name": "翼蛇龍X衣裝",
-        "type": "torso",
+        "type": "body",
         "slots": [
             3,
             1,
@@ -9951,7 +9951,7 @@
     },
     {
         "name": "泡狐龍X鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             0,
@@ -9973,7 +9973,7 @@
     },
     {
         "name": "火龍X鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             3,
             0,
@@ -9995,7 +9995,7 @@
     },
     {
         "name": "雷狼龍X鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             1,
@@ -10017,7 +10017,7 @@
     },
     {
         "name": "冰狼龍鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             4,
             0,
@@ -10038,7 +10038,7 @@
     },
     {
         "name": "電龍鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             3,
             1,
@@ -10059,7 +10059,7 @@
     },
     {
         "name": "棘龍肌肉",
-        "type": "torso",
+        "type": "body",
         "slots": [
             4,
             0,
@@ -10080,7 +10080,7 @@
     },
     {
         "name": "黑蝕龍鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             1,
@@ -10101,7 +10101,7 @@
     },
     {
         "name": "千刃龍鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             3,
             0,
@@ -10122,7 +10122,7 @@
     },
     {
         "name": "轟龍X鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             1,
@@ -10143,7 +10143,7 @@
     },
     {
         "name": "角龍X鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             3,
             0,
@@ -10164,7 +10164,7 @@
     },
     {
         "name": "大馬士革X鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             1,
@@ -10186,7 +10186,7 @@
     },
     {
         "name": "歌德X服飾",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             2,
@@ -10208,7 +10208,7 @@
     },
     {
         "name": "教授外套",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             1,
@@ -10229,7 +10229,7 @@
     },
     {
         "name": "博愛外套",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             1,
@@ -10250,7 +10250,7 @@
     },
     {
         "name": "賢者服裝",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             2,
@@ -10271,7 +10271,7 @@
     },
     {
         "name": "追蹤者服飾",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             2,
@@ -10292,7 +10292,7 @@
     },
     {
         "name": "水兵服裝",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             1,
@@ -10313,7 +10313,7 @@
     },
     {
         "name": "公會宮殿鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             4,
             0,
@@ -10334,7 +10334,7 @@
     },
     {
         "name": "鋼龍X恐懼",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             2,
@@ -10356,7 +10356,7 @@
     },
     {
         "name": "霞龍真【胸甲】",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             1,
@@ -10378,7 +10378,7 @@
     },
     {
         "name": "帝王X鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             1,
@@ -10400,7 +10400,7 @@
     },
     {
         "name": "爵銀龍鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             1,
@@ -10422,7 +10422,7 @@
     },
     {
         "name": "方舟鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             0,
@@ -10444,7 +10444,7 @@
     },
     {
         "name": "友愛鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             0,
@@ -10466,7 +10466,7 @@
     },
     {
         "name": "齊天衣・真",
-        "type": "torso",
+        "type": "body",
         "slots": [
             3,
             0,
@@ -10488,7 +10488,7 @@
     },
     {
         "name": "爆鱗龍X鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             1,
@@ -10510,7 +10510,7 @@
     },
     {
         "name": "據點司令【鎧甲】",
-        "type": "torso",
+        "type": "body",
         "slots": [
             3,
             3,
@@ -10531,7 +10531,7 @@
     },
     {
         "name": "冥淵纏鎧憤怒之軀",
-        "type": "torso",
+        "type": "body",
         "slots": [
             3,
             2,
@@ -10553,7 +10553,7 @@
     },
     {
         "name": "龍捲胸甲真",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             0,
@@ -10576,7 +10576,7 @@
     },
     {
         "name": "鳴神胸甲真",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             0,
@@ -10599,7 +10599,7 @@
     },
     {
         "name": "怒天羽織",
-        "type": "torso",
+        "type": "body",
         "slots": [
             3,
             0,
@@ -10621,7 +10621,7 @@
     },
     {
         "name": "赫耀之鎧甲・真",
-        "type": "torso",
+        "type": "body",
         "slots": [
             4,
             1,
@@ -10642,7 +10642,7 @@
     },
     {
         "name": "禍鎧・怨【胸甲】",
-        "type": "torso",
+        "type": "body",
         "slots": [
             4,
             1,
@@ -10663,7 +10663,7 @@
     },
     {
         "name": "公會十字戰衣",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -10684,7 +10684,7 @@
     },
     {
         "name": "黑帶鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             0,
             0,
@@ -10705,7 +10705,7 @@
     },
     {
         "name": "蒼世武士【羽織】",
-        "type": "torso",
+        "type": "body",
         "slots": [
             2,
             0,
@@ -10726,7 +10726,7 @@
     },
     {
         "name": "黑帶S鎧甲",
-        "type": "torso",
+        "type": "body",
         "slots": [
             1,
             0,
@@ -10747,7 +10747,7 @@
     },
     {
         "name": "神火裝【手甲】",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -10767,7 +10767,7 @@
     },
     {
         "name": "皮製手套",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -10787,7 +10787,7 @@
     },
     {
         "name": "鎖甲手套",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -10807,7 +10807,7 @@
     },
     {
         "name": "獵人腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -10827,7 +10827,7 @@
     },
     {
         "name": "鐮鼬龍腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -10847,7 +10847,7 @@
     },
     {
         "name": "眠狗龍腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -10868,7 +10868,7 @@
     },
     {
         "name": "青熊獸腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -10888,7 +10888,7 @@
     },
     {
         "name": "白兔獸腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -10908,7 +10908,7 @@
     },
     {
         "name": "合金腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -10928,7 +10928,7 @@
     },
     {
         "name": "骨製腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -10948,7 +10948,7 @@
     },
     {
         "name": "高貴枝葉",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -10968,7 +10968,7 @@
     },
     {
         "name": "毒蠍護袖",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -10988,7 +10988,7 @@
     },
     {
         "name": "毒蛛護袖",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11008,7 +11008,7 @@
     },
     {
         "name": "貝殼拳套",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11028,7 +11028,7 @@
     },
     {
         "name": "原角龍腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11048,7 +11048,7 @@
     },
     {
         "name": "飛甲蟲護手",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11068,7 +11068,7 @@
     },
     {
         "name": "狗龍皮臂甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11088,7 +11088,7 @@
     },
     {
         "name": "搔鳥腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11108,7 +11108,7 @@
     },
     {
         "name": "毒狗龍腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11128,7 +11128,7 @@
     },
     {
         "name": "傘鳥腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11148,7 +11148,7 @@
     },
     {
         "name": "水獸腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11168,7 +11168,7 @@
     },
     {
         "name": "土砂龍腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11188,7 +11188,7 @@
     },
     {
         "name": "奇怪龍腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11210,7 +11210,7 @@
     },
     {
         "name": "河童蛙腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11230,7 +11230,7 @@
     },
     {
         "name": "鑄鐵腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11250,7 +11250,7 @@
     },
     {
         "name": "花瓣枝葉",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11271,7 +11271,7 @@
     },
     {
         "name": "死神雙手",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11291,7 +11291,7 @@
     },
     {
         "name": "南瓜枝葉",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11311,7 +11311,7 @@
     },
     {
         "name": "海境腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11331,7 +11331,7 @@
     },
     {
         "name": "翼蛇龍套裝手套",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11352,7 +11352,7 @@
     },
     {
         "name": "赤甲獸腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11372,7 +11372,7 @@
     },
     {
         "name": "天狗獸腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11392,7 +11392,7 @@
     },
     {
         "name": "毒妖鳥腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11412,7 +11412,7 @@
     },
     {
         "name": "岩龍腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11433,7 +11433,7 @@
     },
     {
         "name": "人魚龍腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11454,7 +11454,7 @@
     },
     {
         "name": "雌火龍腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11474,7 +11474,7 @@
     },
     {
         "name": "冰牙龍腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11494,7 +11494,7 @@
     },
     {
         "name": "飛雷龍腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11514,7 +11514,7 @@
     },
     {
         "name": "魚鱗袖",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11534,7 +11534,7 @@
     },
     {
         "name": "鍬形護袖",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11554,7 +11554,7 @@
     },
     {
         "name": "鳳蝶護袖",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11574,7 +11574,7 @@
     },
     {
         "name": "歌德手套",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11594,7 +11594,7 @@
     },
     {
         "name": "倪泰表【手甲】",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11614,7 +11614,7 @@
     },
     {
         "name": "依巫【花袖】",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11634,7 +11634,7 @@
     },
     {
         "name": "倪泰裡【手甲】",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11655,7 +11655,7 @@
     },
     {
         "name": "神凪【花袖】",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11676,7 +11676,7 @@
     },
     {
         "name": "旅團腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11696,7 +11696,7 @@
     },
     {
         "name": "禍鎧【臂甲】",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11716,7 +11716,7 @@
     },
     {
         "name": "蠻顎龍腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11737,7 +11737,7 @@
     },
     {
         "name": "迅龍腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11758,7 +11758,7 @@
     },
     {
         "name": "泡狐龍腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11779,7 +11779,7 @@
     },
     {
         "name": "火龍腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11799,7 +11799,7 @@
     },
     {
         "name": "雷狼龍腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11819,7 +11819,7 @@
     },
     {
         "name": "雪鬼獸腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11840,7 +11840,7 @@
     },
     {
         "name": "泥翁龍腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11861,7 +11861,7 @@
     },
     {
         "name": "轟龍腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11881,7 +11881,7 @@
     },
     {
         "name": "角龍腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -11901,7 +11901,7 @@
     },
     {
         "name": "神火裝【手甲】霸",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             0,
@@ -11922,7 +11922,7 @@
     },
     {
         "name": "皮製S手套",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             1,
@@ -11943,7 +11943,7 @@
     },
     {
         "name": "鎖甲S手套",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             1,
@@ -11964,7 +11964,7 @@
     },
     {
         "name": "獵人S腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             0,
@@ -11984,7 +11984,7 @@
     },
     {
         "name": "合金S腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             0,
@@ -12005,7 +12005,7 @@
     },
     {
         "name": "骨製S腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             1,
@@ -12026,7 +12026,7 @@
     },
     {
         "name": "毒蠍S護袖",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             1,
@@ -12047,7 +12047,7 @@
     },
     {
         "name": "毒蛛S護袖",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             1,
@@ -12068,7 +12068,7 @@
     },
     {
         "name": "飛甲蟲S護手",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             0,
@@ -12089,7 +12089,7 @@
     },
     {
         "name": "鐮鼬龍S腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             1,
@@ -12109,7 +12109,7 @@
     },
     {
         "name": "眠狗龍S腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             1,
@@ -12130,7 +12130,7 @@
     },
     {
         "name": "搔鳥S腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             0,
@@ -12151,7 +12151,7 @@
     },
     {
         "name": "毒狗龍S腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             3,
             0,
@@ -12171,7 +12171,7 @@
     },
     {
         "name": "青熊獸S腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             0,
@@ -12192,7 +12192,7 @@
     },
     {
         "name": "白兔獸S腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             1,
@@ -12213,7 +12213,7 @@
     },
     {
         "name": "傘鳥S腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             1,
@@ -12234,7 +12234,7 @@
     },
     {
         "name": "奇怪龍S腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             1,
@@ -12256,7 +12256,7 @@
     },
     {
         "name": "河童蛙S腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             1,
@@ -12277,7 +12277,7 @@
     },
     {
         "name": "鑄鐵S腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             0,
@@ -12297,7 +12297,7 @@
     },
     {
         "name": "高貴S枝葉",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -12317,7 +12317,7 @@
     },
     {
         "name": "原角龍S腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             1,
@@ -12337,7 +12337,7 @@
     },
     {
         "name": "狗龍皮臂甲S",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             1,
@@ -12357,7 +12357,7 @@
     },
     {
         "name": "赤甲獸S腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             1,
@@ -12378,7 +12378,7 @@
     },
     {
         "name": "水獸S腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             1,
@@ -12398,7 +12398,7 @@
     },
     {
         "name": "土砂龍S腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             1,
@@ -12419,7 +12419,7 @@
     },
     {
         "name": "天狗獸S腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             3,
             0,
@@ -12440,7 +12440,7 @@
     },
     {
         "name": "毒妖鳥S腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             0,
@@ -12461,7 +12461,7 @@
     },
     {
         "name": "泥魚龍腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             3,
             2,
@@ -12479,7 +12479,7 @@
     },
     {
         "name": "岩龍S腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             1,
@@ -12500,7 +12500,7 @@
     },
     {
         "name": "雌火龍S腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             1,
@@ -12521,7 +12521,7 @@
     },
     {
         "name": "杜賓腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             1,
@@ -12542,7 +12542,7 @@
     },
     {
         "name": "貝殼S拳套",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             1,
@@ -12563,7 +12563,7 @@
     },
     {
         "name": "花瓣S枝葉",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             1,
@@ -12585,7 +12585,7 @@
     },
     {
         "name": "死神S雙手",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             0,
@@ -12605,7 +12605,7 @@
     },
     {
         "name": "南瓜S枝葉",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             1,
@@ -12626,7 +12626,7 @@
     },
     {
         "name": "海境S腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             1,
@@ -12646,7 +12646,7 @@
     },
     {
         "name": "魚鱗S袖",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             0,
@@ -12667,7 +12667,7 @@
     },
     {
         "name": "倪泰表【手甲】霸",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             3,
             0,
@@ -12687,7 +12687,7 @@
     },
     {
         "name": "依巫・祈【花袖】",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             3,
             0,
@@ -12707,7 +12707,7 @@
     },
     {
         "name": "倪泰裡【手甲】霸",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             0,
@@ -12728,7 +12728,7 @@
     },
     {
         "name": "神凪・願【花袖】",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             0,
@@ -12749,7 +12749,7 @@
     },
     {
         "name": "翼蛇龍套裝S手套",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             0,
@@ -12770,7 +12770,7 @@
     },
     {
         "name": "人魚龍S腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             0,
@@ -12791,7 +12791,7 @@
     },
     {
         "name": "冰牙龍S腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             0,
@@ -12813,7 +12813,7 @@
     },
     {
         "name": "飛雷龍S腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             0,
@@ -12833,7 +12833,7 @@
     },
     {
         "name": "蠻顎龍S腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             0,
@@ -12854,7 +12854,7 @@
     },
     {
         "name": "迅龍S腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             1,
@@ -12875,7 +12875,7 @@
     },
     {
         "name": "泡狐龍S腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             0,
@@ -12896,7 +12896,7 @@
     },
     {
         "name": "火龍S腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             0,
@@ -12916,7 +12916,7 @@
     },
     {
         "name": "雷狼龍S腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             0,
@@ -12937,7 +12937,7 @@
     },
     {
         "name": "鍬形S護袖",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             3,
             0,
@@ -12957,7 +12957,7 @@
     },
     {
         "name": "鳳蝶S護袖",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             3,
             0,
@@ -12977,7 +12977,7 @@
     },
     {
         "name": "歌德S手套",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             1,
@@ -12997,7 +12997,7 @@
     },
     {
         "name": "旅團S腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             3,
             1,
@@ -13017,7 +13017,7 @@
     },
     {
         "name": "禍鎧・霸【臂甲】",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             0,
@@ -13038,7 +13038,7 @@
     },
     {
         "name": "雪鬼獸S腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             0,
@@ -13059,7 +13059,7 @@
     },
     {
         "name": "泥翁龍S腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             1,
@@ -13080,7 +13080,7 @@
     },
     {
         "name": "轟龍S腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             3,
             0,
@@ -13101,7 +13101,7 @@
     },
     {
         "name": "角龍S腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             1,
@@ -13121,7 +13121,7 @@
     },
     {
         "name": "妃蜘蛛腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             0,
@@ -13142,7 +13142,7 @@
     },
     {
         "name": "金色臂甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             3,
             1,
@@ -13163,7 +13163,7 @@
     },
     {
         "name": "大馬士革腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             1,
@@ -13183,7 +13183,7 @@
     },
     {
         "name": "鋼龍剛強",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             0,
@@ -13205,7 +13205,7 @@
     },
     {
         "name": "霞龍劍裝【大袖】",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             0,
@@ -13227,7 +13227,7 @@
     },
     {
         "name": "帝王腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             0,
@@ -13249,7 +13249,7 @@
     },
     {
         "name": "爆鱗龍腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             2,
@@ -13270,7 +13270,7 @@
     },
     {
         "name": "龍捲之臂",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -13293,7 +13293,7 @@
     },
     {
         "name": "鳴神之臂",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -13316,7 +13316,7 @@
     },
     {
         "name": "赫耀之腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             0,
@@ -13337,7 +13337,7 @@
     },
     {
         "name": "神火裝【手甲】繼",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             0,
@@ -13359,7 +13359,7 @@
     },
     {
         "name": "皮製X手套",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             4,
             1,
@@ -13380,7 +13380,7 @@
     },
     {
         "name": "鎖甲X手套",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             4,
             1,
@@ -13401,7 +13401,7 @@
     },
     {
         "name": "獵人X腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             0,
@@ -13423,7 +13423,7 @@
     },
     {
         "name": "合金X腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             1,
@@ -13444,7 +13444,7 @@
     },
     {
         "name": "骨製X腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             1,
@@ -13466,7 +13466,7 @@
     },
     {
         "name": "原角龍X腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             2,
@@ -13488,7 +13488,7 @@
     },
     {
         "name": "飛甲蟲X護手",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             4,
             0,
@@ -13509,7 +13509,7 @@
     },
     {
         "name": "巨甲蟲腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             4,
             2,
@@ -13530,7 +13530,7 @@
     },
     {
         "name": "巨蜂腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             3,
             0,
@@ -13551,7 +13551,7 @@
     },
     {
         "name": "狗龍皮臂甲X",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             1,
@@ -13571,7 +13571,7 @@
     },
     {
         "name": "迅猛龍腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             3,
             1,
@@ -13591,7 +13591,7 @@
     },
     {
         "name": "鐮鼬龍X腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             1,
@@ -13612,7 +13612,7 @@
     },
     {
         "name": "眠狗龍X腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             4,
             1,
@@ -13633,7 +13633,7 @@
     },
     {
         "name": "搔鳥X腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             1,
@@ -13655,7 +13655,7 @@
     },
     {
         "name": "毒狗龍X腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             4,
             0,
@@ -13677,7 +13677,7 @@
     },
     {
         "name": "青熊獸X腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             1,
@@ -13699,7 +13699,7 @@
     },
     {
         "name": "白兔獸X腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             1,
@@ -13720,7 +13720,7 @@
     },
     {
         "name": "赤甲獸X腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             1,
@@ -13742,7 +13742,7 @@
     },
     {
         "name": "傘鳥X腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             1,
@@ -13764,7 +13764,7 @@
     },
     {
         "name": "水獸X腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             2,
@@ -13786,7 +13786,7 @@
     },
     {
         "name": "土砂龍X腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             1,
@@ -13809,7 +13809,7 @@
     },
     {
         "name": "大名蟹腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             0,
@@ -13831,7 +13831,7 @@
     },
     {
         "name": "河童蛙X腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             1,
@@ -13853,7 +13853,7 @@
     },
     {
         "name": "鑄鐵X腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             4,
             2,
@@ -13873,7 +13873,7 @@
     },
     {
         "name": "毒蠍X護袖",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             4,
             1,
@@ -13894,7 +13894,7 @@
     },
     {
         "name": "毒蛛X護袖",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             4,
             1,
@@ -13915,7 +13915,7 @@
     },
     {
         "name": "高貴X枝葉",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             1,
@@ -13936,7 +13936,7 @@
     },
     {
         "name": "貝殼X拳套",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             1,
@@ -13957,7 +13957,7 @@
     },
     {
         "name": "花瓣X枝葉",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             4,
             2,
@@ -13979,7 +13979,7 @@
     },
     {
         "name": "五行之護臂",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             4,
             0,
@@ -14000,7 +14000,7 @@
     },
     {
         "name": "輕裝騎士【手甲】",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             1,
@@ -14021,7 +14021,7 @@
     },
     {
         "name": "結雲之護臂",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             1,
@@ -14042,7 +14042,7 @@
     },
     {
         "name": "奇怪龍X腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             4,
             1,
@@ -14064,7 +14064,7 @@
     },
     {
         "name": "天狗獸X腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             4,
             0,
@@ -14086,7 +14086,7 @@
     },
     {
         "name": "緋天狗獸腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             1,
@@ -14107,7 +14107,7 @@
     },
     {
         "name": "毒妖鳥X腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             3,
             0,
@@ -14128,7 +14128,7 @@
     },
     {
         "name": "泥魚龍X腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             3,
             2,
@@ -14148,7 +14148,7 @@
     },
     {
         "name": "岩龍X腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             1,
@@ -14169,7 +14169,7 @@
     },
     {
         "name": "人魚龍X腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             0,
@@ -14192,7 +14192,7 @@
     },
     {
         "name": "冰人魚龍腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             4,
             1,
@@ -14214,7 +14214,7 @@
     },
     {
         "name": "雌火龍X腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             1,
@@ -14236,7 +14236,7 @@
     },
     {
         "name": "飛雷龍X腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             3,
             0,
@@ -14257,7 +14257,7 @@
     },
     {
         "name": "蠻顎龍X腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             0,
@@ -14279,7 +14279,7 @@
     },
     {
         "name": "杜賓X腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             3,
             1,
@@ -14301,7 +14301,7 @@
     },
     {
         "name": "海境X腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             1,
@@ -14323,7 +14323,7 @@
     },
     {
         "name": "南瓜X枝葉",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             4,
             1,
@@ -14345,7 +14345,7 @@
     },
     {
         "name": "死神X雙手",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             0,
@@ -14366,7 +14366,7 @@
     },
     {
         "name": "魚鱗X袖",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             2,
@@ -14388,7 +14388,7 @@
     },
     {
         "name": "鍬形X護袖",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             3,
             0,
@@ -14409,7 +14409,7 @@
     },
     {
         "name": "鳳蝶X護袖",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             3,
             0,
@@ -14430,7 +14430,7 @@
     },
     {
         "name": "砲術隊【臂甲】",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             0,
@@ -14452,7 +14452,7 @@
     },
     {
         "name": "公會詩人腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             1,
@@ -14474,7 +14474,7 @@
     },
     {
         "name": "學識手套",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             1,
@@ -14496,7 +14496,7 @@
     },
     {
         "name": "守護者腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             2,
@@ -14518,7 +14518,7 @@
     },
     {
         "name": "旅團X腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             3,
             3,
@@ -14540,7 +14540,7 @@
     },
     {
         "name": "冰牙龍X腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             1,
@@ -14562,7 +14562,7 @@
     },
     {
         "name": "禍鎧・真【臂甲】",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             0,
@@ -14584,7 +14584,7 @@
     },
     {
         "name": "迅龍X腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             1,
@@ -14606,7 +14606,7 @@
     },
     {
         "name": "雪鬼獸X腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             4,
             0,
@@ -14628,7 +14628,7 @@
     },
     {
         "name": "剛纏獸腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             2,
@@ -14649,7 +14649,7 @@
     },
     {
         "name": "將軍蟹腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             0,
@@ -14672,7 +14672,7 @@
     },
     {
         "name": "泥翁龍X腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             4,
             1,
@@ -14693,7 +14693,7 @@
     },
     {
         "name": "熔翁龍腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             3,
             0,
@@ -14715,7 +14715,7 @@
     },
     {
         "name": "妃蜘蛛X腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             4,
             0,
@@ -14736,7 +14736,7 @@
     },
     {
         "name": "熾妃蜘蛛腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             4,
             0,
@@ -14759,7 +14759,7 @@
     },
     {
         "name": "恩寵腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             1,
@@ -14781,7 +14781,7 @@
     },
     {
         "name": "巴爾巴尼亞手套",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             1,
@@ -14803,7 +14803,7 @@
     },
     {
         "name": "倪泰表【手甲】真",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             4,
             0,
@@ -14824,7 +14824,7 @@
     },
     {
         "name": "依巫・燿【花袖】",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             4,
             0,
@@ -14845,7 +14845,7 @@
     },
     {
         "name": "倪泰裡【手甲】真",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             0,
@@ -14867,7 +14867,7 @@
     },
     {
         "name": "神凪・洸【花袖】",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             0,
@@ -14889,7 +14889,7 @@
     },
     {
         "name": "重裝騎士【手甲】",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             0,
@@ -14911,7 +14911,7 @@
     },
     {
         "name": "獵鷹手套",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             0,
@@ -14933,7 +14933,7 @@
     },
     {
         "name": "心智手套",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             0,
@@ -14955,7 +14955,7 @@
     },
     {
         "name": "端莊護手",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             3,
             0,
@@ -14977,7 +14977,7 @@
     },
     {
         "name": "翼蛇龍X手套",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             4,
             1,
@@ -14998,7 +14998,7 @@
     },
     {
         "name": "泡狐龍X腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             4,
             1,
@@ -15019,7 +15019,7 @@
     },
     {
         "name": "火龍X腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             0,
@@ -15040,7 +15040,7 @@
     },
     {
         "name": "雷狼龍X腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             0,
@@ -15062,7 +15062,7 @@
     },
     {
         "name": "冰狼龍腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             1,
@@ -15083,7 +15083,7 @@
     },
     {
         "name": "電龍腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             4,
             1,
@@ -15105,7 +15105,7 @@
     },
     {
         "name": "棘龍雙手",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             4,
             0,
@@ -15127,7 +15127,7 @@
     },
     {
         "name": "黑蝕龍腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             4,
             0,
@@ -15148,7 +15148,7 @@
     },
     {
         "name": "千刃龍腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -15168,7 +15168,7 @@
     },
     {
         "name": "轟龍X腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             4,
             0,
@@ -15191,7 +15191,7 @@
     },
     {
         "name": "角龍X腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             1,
@@ -15213,7 +15213,7 @@
     },
     {
         "name": "大馬士革X腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             1,
@@ -15234,7 +15234,7 @@
     },
     {
         "name": "歌德X手套",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             3,
             1,
@@ -15256,7 +15256,7 @@
     },
     {
         "name": "教授手套",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             2,
@@ -15277,7 +15277,7 @@
     },
     {
         "name": "博愛護手",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             2,
@@ -15298,7 +15298,7 @@
     },
     {
         "name": "賢者腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             2,
@@ -15319,7 +15319,7 @@
     },
     {
         "name": "追蹤者手套",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             1,
@@ -15340,7 +15340,7 @@
     },
     {
         "name": "水兵手套",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             3,
             0,
@@ -15361,7 +15361,7 @@
     },
     {
         "name": "公會宮殿腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             4,
             0,
@@ -15383,7 +15383,7 @@
     },
     {
         "name": "鋼龍X剛強",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             0,
@@ -15404,7 +15404,7 @@
     },
     {
         "name": "霞龍真【大袖】",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             2,
@@ -15426,7 +15426,7 @@
     },
     {
         "name": "帝王X腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             3,
             0,
@@ -15448,7 +15448,7 @@
     },
     {
         "name": "爵銀龍腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             4,
             0,
@@ -15470,7 +15470,7 @@
     },
     {
         "name": "方舟腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             4,
             0,
@@ -15491,7 +15491,7 @@
     },
     {
         "name": "友愛腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             4,
             0,
@@ -15512,7 +15512,7 @@
     },
     {
         "name": "齊天臂甲・真",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             4,
             1,
@@ -15533,7 +15533,7 @@
     },
     {
         "name": "爆鱗龍X腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             2,
@@ -15555,7 +15555,7 @@
     },
     {
         "name": "據點司令【手甲】",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             4,
             1,
@@ -15576,7 +15576,7 @@
     },
     {
         "name": "冥淵纏鎧憤怒之棘",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             4,
             0,
@@ -15597,7 +15597,7 @@
     },
     {
         "name": "龍捲之臂真",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             0,
@@ -15620,7 +15620,7 @@
     },
     {
         "name": "鳴神之臂真",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             2,
             0,
@@ -15643,7 +15643,7 @@
     },
     {
         "name": "怒天臂甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             4,
             0,
@@ -15664,7 +15664,7 @@
     },
     {
         "name": "赫耀之腕甲・真",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             4,
             0,
@@ -15685,7 +15685,7 @@
     },
     {
         "name": "禍鎧・怨【臂甲】",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             3,
             2,
@@ -15707,7 +15707,7 @@
     },
     {
         "name": "公會十字腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -15728,7 +15728,7 @@
     },
     {
         "name": "黑帶腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -15749,7 +15749,7 @@
     },
     {
         "name": "蒼世武士【袖】",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             1,
             0,
@@ -15771,7 +15771,7 @@
     },
     {
         "name": "黑帶S腕甲",
-        "type": "arms",
+        "type": "arm",
         "slots": [
             0,
             0,
@@ -20922,7 +20922,7 @@
     },
     {
         "name": "黑色皮褲",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             3,
             0,
@@ -20942,7 +20942,7 @@
     },
     {
         "name": "神火裝【綁腿】",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -20962,7 +20962,7 @@
     },
     {
         "name": "皮製長褲",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -20982,7 +20982,7 @@
     },
     {
         "name": "鎖甲長褲",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21002,7 +21002,7 @@
     },
     {
         "name": "獵人護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21023,7 +21023,7 @@
     },
     {
         "name": "鐮鼬龍護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21043,7 +21043,7 @@
     },
     {
         "name": "眠狗龍護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21063,7 +21063,7 @@
     },
     {
         "name": "青熊獸護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21083,7 +21083,7 @@
     },
     {
         "name": "白兔獸護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21103,7 +21103,7 @@
     },
     {
         "name": "合金護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21123,7 +21123,7 @@
     },
     {
         "name": "骨製護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21143,7 +21143,7 @@
     },
     {
         "name": "高貴紮根",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21163,7 +21163,7 @@
     },
     {
         "name": "毒蠍腳",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21183,7 +21183,7 @@
     },
     {
         "name": "毒蛛腳",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21203,7 +21203,7 @@
     },
     {
         "name": "貝殼涼鞋",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21223,7 +21223,7 @@
     },
     {
         "name": "原角龍護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21243,7 +21243,7 @@
     },
     {
         "name": "水生獸護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21263,7 +21263,7 @@
     },
     {
         "name": "飛甲蟲靴",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21283,7 +21283,7 @@
     },
     {
         "name": "狗龍皮護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21303,7 +21303,7 @@
     },
     {
         "name": "搔鳥護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21324,7 +21324,7 @@
     },
     {
         "name": "毒狗龍護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21344,7 +21344,7 @@
     },
     {
         "name": "傘鳥護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21364,7 +21364,7 @@
     },
     {
         "name": "水獸護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21384,7 +21384,7 @@
     },
     {
         "name": "土砂龍護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21404,7 +21404,7 @@
     },
     {
         "name": "奇怪龍護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21424,7 +21424,7 @@
     },
     {
         "name": "河童蛙護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21444,7 +21444,7 @@
     },
     {
         "name": "鑄鐵護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21465,7 +21465,7 @@
     },
     {
         "name": "花瓣紮根",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21485,7 +21485,7 @@
     },
     {
         "name": "死神腳跟",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21505,7 +21505,7 @@
     },
     {
         "name": "南瓜紮根",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21525,7 +21525,7 @@
     },
     {
         "name": "海境護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21545,7 +21545,7 @@
     },
     {
         "name": "翼蛇龍套裝鞋子",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21565,7 +21565,7 @@
     },
     {
         "name": "赤甲獸護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21585,7 +21585,7 @@
     },
     {
         "name": "天狗獸護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21605,7 +21605,7 @@
     },
     {
         "name": "毒妖鳥護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21625,7 +21625,7 @@
     },
     {
         "name": "岩龍護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21646,7 +21646,7 @@
     },
     {
         "name": "人魚龍護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21666,7 +21666,7 @@
     },
     {
         "name": "雌火龍護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21686,7 +21686,7 @@
     },
     {
         "name": "冰牙龍護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21706,7 +21706,7 @@
     },
     {
         "name": "飛雷龍護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21727,7 +21727,7 @@
     },
     {
         "name": "魚鱗長褲",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21747,7 +21747,7 @@
     },
     {
         "name": "鍬形腳",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21767,7 +21767,7 @@
     },
     {
         "name": "鳳蝶腳",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21787,7 +21787,7 @@
     },
     {
         "name": "歌德靴",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21807,7 +21807,7 @@
     },
     {
         "name": "倪泰表【綁腿】",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21827,7 +21827,7 @@
     },
     {
         "name": "依巫【緋袴】",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21847,7 +21847,7 @@
     },
     {
         "name": "倪泰裡【綁腿】",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21868,7 +21868,7 @@
     },
     {
         "name": "神凪【緋袴】",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21889,7 +21889,7 @@
     },
     {
         "name": "旅團靴",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21909,7 +21909,7 @@
     },
     {
         "name": "禍鎧【腿甲】",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21929,7 +21929,7 @@
     },
     {
         "name": "蠻顎龍護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21949,7 +21949,7 @@
     },
     {
         "name": "迅龍護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21970,7 +21970,7 @@
     },
     {
         "name": "泡狐龍護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -21990,7 +21990,7 @@
     },
     {
         "name": "火龍護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -22011,7 +22011,7 @@
     },
     {
         "name": "雷狼龍護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -22031,7 +22031,7 @@
     },
     {
         "name": "雪鬼獸護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -22051,7 +22051,7 @@
     },
     {
         "name": "泥翁龍護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -22071,7 +22071,7 @@
     },
     {
         "name": "轟龍護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -22091,7 +22091,7 @@
     },
     {
         "name": "角龍護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -22112,7 +22112,7 @@
     },
     {
         "name": "神火裝【綁腿】霸",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             0,
@@ -22133,7 +22133,7 @@
     },
     {
         "name": "皮製S長褲",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             0,
@@ -22153,7 +22153,7 @@
     },
     {
         "name": "鎖甲S長褲",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             1,
@@ -22174,7 +22174,7 @@
     },
     {
         "name": "獵人S護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             0,
@@ -22195,7 +22195,7 @@
     },
     {
         "name": "合金S護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             0,
@@ -22216,7 +22216,7 @@
     },
     {
         "name": "骨製S護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             0,
@@ -22237,7 +22237,7 @@
     },
     {
         "name": "毒蠍S腳",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             0,
@@ -22259,7 +22259,7 @@
     },
     {
         "name": "毒蛛S腳",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             0,
@@ -22281,7 +22281,7 @@
     },
     {
         "name": "飛甲蟲S靴",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             1,
@@ -22302,7 +22302,7 @@
     },
     {
         "name": "鐮鼬龍S護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             1,
@@ -22323,7 +22323,7 @@
     },
     {
         "name": "眠狗龍S護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             1,
@@ -22343,7 +22343,7 @@
     },
     {
         "name": "搔鳥S護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             0,
@@ -22364,7 +22364,7 @@
     },
     {
         "name": "毒狗龍S護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             1,
@@ -22385,7 +22385,7 @@
     },
     {
         "name": "青熊獸S護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             3,
             2,
@@ -22403,7 +22403,7 @@
     },
     {
         "name": "白兔獸S護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             1,
@@ -22424,7 +22424,7 @@
     },
     {
         "name": "傘鳥S護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             0,
@@ -22445,7 +22445,7 @@
     },
     {
         "name": "奇怪龍S護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             1,
@@ -22467,7 +22467,7 @@
     },
     {
         "name": "河童蛙S護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             0,
@@ -22488,7 +22488,7 @@
     },
     {
         "name": "鑄鐵S護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             0,
@@ -22509,7 +22509,7 @@
     },
     {
         "name": "高貴S紮根",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             3,
             1,
@@ -22529,7 +22529,7 @@
     },
     {
         "name": "原角龍S護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             1,
@@ -22550,7 +22550,7 @@
     },
     {
         "name": "水生獸S護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             0,
@@ -22570,7 +22570,7 @@
     },
     {
         "name": "狗龍皮護腿S",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             1,
@@ -22590,7 +22590,7 @@
     },
     {
         "name": "赤甲獸S護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             1,
@@ -22611,7 +22611,7 @@
     },
     {
         "name": "水獸S護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             3,
             0,
@@ -22631,7 +22631,7 @@
     },
     {
         "name": "土砂龍S護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             1,
@@ -22653,7 +22653,7 @@
     },
     {
         "name": "天狗獸S護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             1,
@@ -22673,7 +22673,7 @@
     },
     {
         "name": "毒妖鳥S護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             1,
@@ -22694,7 +22694,7 @@
     },
     {
         "name": "泥魚龍護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             1,
@@ -22714,7 +22714,7 @@
     },
     {
         "name": "岩龍S護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             3,
             0,
@@ -22735,7 +22735,7 @@
     },
     {
         "name": "雌火龍S護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             0,
@@ -22756,7 +22756,7 @@
     },
     {
         "name": "鉻合金靴",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             3,
             0,
@@ -22776,7 +22776,7 @@
     },
     {
         "name": "杜賓護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             0,
@@ -22798,7 +22798,7 @@
     },
     {
         "name": "貝殼S涼鞋",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             1,
@@ -22819,7 +22819,7 @@
     },
     {
         "name": "花瓣S紮根",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             1,
@@ -22840,7 +22840,7 @@
     },
     {
         "name": "死神S腳跟",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             1,
@@ -22861,7 +22861,7 @@
     },
     {
         "name": "南瓜S紮根",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             1,
@@ -22881,7 +22881,7 @@
     },
     {
         "name": "海境S護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             3,
             1,
@@ -22901,7 +22901,7 @@
     },
     {
         "name": "魚鱗S長褲",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             1,
@@ -22922,7 +22922,7 @@
     },
     {
         "name": "倪泰表【綁腿】霸",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             0,
@@ -22944,7 +22944,7 @@
     },
     {
         "name": "依巫・祈【緋袴】",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             0,
@@ -22966,7 +22966,7 @@
     },
     {
         "name": "倪泰裡【綁腿】霸",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             1,
@@ -22987,7 +22987,7 @@
     },
     {
         "name": "神凪・願【緋袴】",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             1,
@@ -23008,7 +23008,7 @@
     },
     {
         "name": "翼蛇龍套裝S鞋子",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             1,
@@ -23028,7 +23028,7 @@
     },
     {
         "name": "人魚龍S護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             1,
@@ -23048,7 +23048,7 @@
     },
     {
         "name": "冰牙龍S護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             3,
             1,
@@ -23068,7 +23068,7 @@
     },
     {
         "name": "飛雷龍S護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             1,
@@ -23089,7 +23089,7 @@
     },
     {
         "name": "蠻顎龍S護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             0,
@@ -23109,7 +23109,7 @@
     },
     {
         "name": "迅龍S護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             0,
@@ -23130,7 +23130,7 @@
     },
     {
         "name": "泡狐龍S護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             3,
             1,
@@ -23150,7 +23150,7 @@
     },
     {
         "name": "火龍S護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             1,
@@ -23171,7 +23171,7 @@
     },
     {
         "name": "雷狼龍S護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             0,
@@ -23192,7 +23192,7 @@
     },
     {
         "name": "鍬形S腳",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             1,
@@ -23213,7 +23213,7 @@
     },
     {
         "name": "鳳蝶S腳",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             1,
@@ -23234,7 +23234,7 @@
     },
     {
         "name": "歌德S靴",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             3,
             1,
@@ -23254,7 +23254,7 @@
     },
     {
         "name": "旅團S靴",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             1,
@@ -23275,7 +23275,7 @@
     },
     {
         "name": "禍鎧・霸【腿甲】",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             1,
@@ -23297,7 +23297,7 @@
     },
     {
         "name": "雪鬼獸S護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             0,
@@ -23318,7 +23318,7 @@
     },
     {
         "name": "泥翁龍S護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             3,
             1,
@@ -23338,7 +23338,7 @@
     },
     {
         "name": "轟龍S護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             0,
@@ -23359,7 +23359,7 @@
     },
     {
         "name": "角龍S護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             0,
@@ -23380,7 +23380,7 @@
     },
     {
         "name": "妃蜘蛛護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             0,
@@ -23401,7 +23401,7 @@
     },
     {
         "name": "金色下裳",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             1,
@@ -23422,7 +23422,7 @@
     },
     {
         "name": "大馬士革護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             0,
@@ -23442,7 +23442,7 @@
     },
     {
         "name": "鋼龍踏實",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             0,
@@ -23464,7 +23464,7 @@
     },
     {
         "name": "霞龍劍裝【腿甲】",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             0,
@@ -23485,7 +23485,7 @@
     },
     {
         "name": "帝王護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             0,
@@ -23506,7 +23506,7 @@
     },
     {
         "name": "爆鱗龍護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             3,
             0,
@@ -23527,7 +23527,7 @@
     },
     {
         "name": "龍捲之足",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -23550,7 +23550,7 @@
     },
     {
         "name": "鳴神之足",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -23573,7 +23573,7 @@
     },
     {
         "name": "赫耀之護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             3,
             1,
@@ -23594,7 +23594,7 @@
     },
     {
         "name": "神火裝【綁腿】繼",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             0,
@@ -23616,7 +23616,7 @@
     },
     {
         "name": "皮製X長褲",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             4,
             1,
@@ -23637,7 +23637,7 @@
     },
     {
         "name": "鎖甲X護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             1,
@@ -23658,7 +23658,7 @@
     },
     {
         "name": "獵人X護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             0,
@@ -23680,7 +23680,7 @@
     },
     {
         "name": "合金X護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             4,
             0,
@@ -23700,7 +23700,7 @@
     },
     {
         "name": "骨製X護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             0,
@@ -23722,7 +23722,7 @@
     },
     {
         "name": "原角龍X護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             4,
             0,
@@ -23743,7 +23743,7 @@
     },
     {
         "name": "水生獸X護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             4,
             1,
@@ -23763,7 +23763,7 @@
     },
     {
         "name": "飛甲蟲X靴",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             4,
             1,
@@ -23784,7 +23784,7 @@
     },
     {
         "name": "巨甲蟲護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             2,
@@ -23806,7 +23806,7 @@
     },
     {
         "name": "巨蜂護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             4,
             0,
@@ -23827,7 +23827,7 @@
     },
     {
         "name": "狗龍皮護腿X",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             1,
@@ -23848,7 +23848,7 @@
     },
     {
         "name": "迅猛龍護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             3,
             2,
@@ -23869,7 +23869,7 @@
     },
     {
         "name": "鐮鼬龍X護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             1,
@@ -23891,7 +23891,7 @@
     },
     {
         "name": "眠狗龍X護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             1,
@@ -23912,7 +23912,7 @@
     },
     {
         "name": "搔鳥X護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             3,
             0,
@@ -23933,7 +23933,7 @@
     },
     {
         "name": "毒狗龍X護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             4,
             0,
@@ -23953,7 +23953,7 @@
     },
     {
         "name": "青熊獸X護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             3,
             2,
@@ -23973,7 +23973,7 @@
     },
     {
         "name": "白兔獸X護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             3,
             0,
@@ -23996,7 +23996,7 @@
     },
     {
         "name": "赤甲獸X護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             0,
@@ -24017,7 +24017,7 @@
     },
     {
         "name": "傘鳥X護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             1,
@@ -24039,7 +24039,7 @@
     },
     {
         "name": "水獸X護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             3,
             0,
@@ -24060,7 +24060,7 @@
     },
     {
         "name": "土砂龍X護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             1,
@@ -24082,7 +24082,7 @@
     },
     {
         "name": "大名蟹護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             4,
             0,
@@ -24104,7 +24104,7 @@
     },
     {
         "name": "河童蛙X護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             4,
             0,
@@ -24126,7 +24126,7 @@
     },
     {
         "name": "鑄鐵X護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             1,
@@ -24147,7 +24147,7 @@
     },
     {
         "name": "毒蠍X腳",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             0,
@@ -24169,7 +24169,7 @@
     },
     {
         "name": "毒蛛X腳",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             0,
@@ -24191,7 +24191,7 @@
     },
     {
         "name": "高貴X紮根",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             4,
             1,
@@ -24212,7 +24212,7 @@
     },
     {
         "name": "貝殼X涼鞋",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             1,
@@ -24233,7 +24233,7 @@
     },
     {
         "name": "花瓣X紮根",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             4,
             1,
@@ -24255,7 +24255,7 @@
     },
     {
         "name": "五行之腿甲",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             3,
             0,
@@ -24276,7 +24276,7 @@
     },
     {
         "name": "輕裝騎士【腿甲】",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             3,
             1,
@@ -24297,7 +24297,7 @@
     },
     {
         "name": "結雲之下裳",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             0,
@@ -24319,7 +24319,7 @@
     },
     {
         "name": "奇怪龍X護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             1,
@@ -24341,7 +24341,7 @@
     },
     {
         "name": "天狗獸X護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             1,
@@ -24364,7 +24364,7 @@
     },
     {
         "name": "緋天狗獸護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             4,
             1,
@@ -24386,7 +24386,7 @@
     },
     {
         "name": "毒妖鳥X護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             1,
@@ -24407,7 +24407,7 @@
     },
     {
         "name": "泥魚龍X護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             4,
             1,
@@ -24428,7 +24428,7 @@
     },
     {
         "name": "岩龍X護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             3,
             0,
@@ -24451,7 +24451,7 @@
     },
     {
         "name": "人魚龍X護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             4,
             1,
@@ -24472,7 +24472,7 @@
     },
     {
         "name": "冰人魚龍護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             4,
             1,
@@ -24494,7 +24494,7 @@
     },
     {
         "name": "雌火龍X護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             4,
             0,
@@ -24516,7 +24516,7 @@
     },
     {
         "name": "飛雷龍X護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             1,
@@ -24538,7 +24538,7 @@
     },
     {
         "name": "蠻顎龍X護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             3,
             0,
@@ -24559,7 +24559,7 @@
     },
     {
         "name": "杜賓X護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             0,
@@ -24581,7 +24581,7 @@
     },
     {
         "name": "海境X護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             4,
             1,
@@ -24602,7 +24602,7 @@
     },
     {
         "name": "南瓜X紮根",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             2,
@@ -24623,7 +24623,7 @@
     },
     {
         "name": "死神X腳跟",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             1,
@@ -24645,7 +24645,7 @@
     },
     {
         "name": "魚鱗X長褲",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             1,
@@ -24667,7 +24667,7 @@
     },
     {
         "name": "鍬形X腳",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             1,
@@ -24689,7 +24689,7 @@
     },
     {
         "name": "鳳蝶X腳",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             1,
@@ -24711,7 +24711,7 @@
     },
     {
         "name": "砲術隊【脛甲】",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -24733,7 +24733,7 @@
     },
     {
         "name": "公會詩人靴",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             4,
             0,
@@ -24754,7 +24754,7 @@
     },
     {
         "name": "學識短襪",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             4,
             0,
@@ -24775,7 +24775,7 @@
     },
     {
         "name": "守護者靴",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             1,
@@ -24796,7 +24796,7 @@
     },
     {
         "name": "旅團X靴",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             2,
@@ -24818,7 +24818,7 @@
     },
     {
         "name": "冰牙龍X護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             4,
             1,
@@ -24840,7 +24840,7 @@
     },
     {
         "name": "禍鎧・真【腿甲】",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             1,
@@ -24862,7 +24862,7 @@
     },
     {
         "name": "迅龍X護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             0,
@@ -24884,7 +24884,7 @@
     },
     {
         "name": "雪鬼獸X護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             3,
             0,
@@ -24906,7 +24906,7 @@
     },
     {
         "name": "剛纏獸護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             2,
@@ -24928,7 +24928,7 @@
     },
     {
         "name": "將軍蟹護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             0,
@@ -24951,7 +24951,7 @@
     },
     {
         "name": "泥翁龍X護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             4,
             2,
@@ -24973,7 +24973,7 @@
     },
     {
         "name": "熔翁龍護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             3,
             3,
@@ -24994,7 +24994,7 @@
     },
     {
         "name": "妃蜘蛛X護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             1,
@@ -25015,7 +25015,7 @@
     },
     {
         "name": "熾妃蜘蛛護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             4,
             2,
@@ -25036,7 +25036,7 @@
     },
     {
         "name": "鉻合金X靴",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             4,
             0,
@@ -25056,7 +25056,7 @@
     },
     {
         "name": "恩寵護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             0,
@@ -25078,7 +25078,7 @@
     },
     {
         "name": "巴爾巴尼亞靴",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             3,
             0,
@@ -25100,7 +25100,7 @@
     },
     {
         "name": "倪泰表【綁腿】真",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             0,
@@ -25122,7 +25122,7 @@
     },
     {
         "name": "依巫・燿【緋袴】",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             0,
@@ -25144,7 +25144,7 @@
     },
     {
         "name": "倪泰裡【綁腿】真",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             1,
@@ -25166,7 +25166,7 @@
     },
     {
         "name": "神凪・洸【緋袴】",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             1,
@@ -25188,7 +25188,7 @@
     },
     {
         "name": "重裝騎士【腿甲】",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             0,
@@ -25210,7 +25210,7 @@
     },
     {
         "name": "獵鷹靴",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             1,
@@ -25232,7 +25232,7 @@
     },
     {
         "name": "心智靴",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             1,
@@ -25254,7 +25254,7 @@
     },
     {
         "name": "端莊護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             4,
             0,
@@ -25276,7 +25276,7 @@
     },
     {
         "name": "翼蛇龍X鞋子",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             4,
             1,
@@ -25297,7 +25297,7 @@
     },
     {
         "name": "泡狐龍X護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             3,
             1,
@@ -25319,7 +25319,7 @@
     },
     {
         "name": "火龍X護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             1,
@@ -25341,7 +25341,7 @@
     },
     {
         "name": "雷狼龍X護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             0,
@@ -25363,7 +25363,7 @@
     },
     {
         "name": "冰狼龍護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             1,
@@ -25384,7 +25384,7 @@
     },
     {
         "name": "電龍護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             1,
@@ -25406,7 +25406,7 @@
     },
     {
         "name": "棘龍腳跟",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             4,
             1,
@@ -25428,7 +25428,7 @@
     },
     {
         "name": "黑蝕龍護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             1,
@@ -25449,7 +25449,7 @@
     },
     {
         "name": "千刃龍護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             4,
             0,
@@ -25470,7 +25470,7 @@
     },
     {
         "name": "轟龍X護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             3,
             0,
@@ -25492,7 +25492,7 @@
     },
     {
         "name": "角龍X護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             3,
             0,
@@ -25513,7 +25513,7 @@
     },
     {
         "name": "大馬士革X護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             3,
             0,
@@ -25535,7 +25535,7 @@
     },
     {
         "name": "歌德X靴",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             4,
             1,
@@ -25557,7 +25557,7 @@
     },
     {
         "name": "教授靴",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             4,
             1,
@@ -25578,7 +25578,7 @@
     },
     {
         "name": "博愛靴",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             4,
             1,
@@ -25599,7 +25599,7 @@
     },
     {
         "name": "賢者靴",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             0,
@@ -25620,7 +25620,7 @@
     },
     {
         "name": "追蹤者長褲",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             4,
             0,
@@ -25641,7 +25641,7 @@
     },
     {
         "name": "水兵鞋子",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             3,
             0,
@@ -25662,7 +25662,7 @@
     },
     {
         "name": "公會宮殿護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             3,
             0,
@@ -25683,7 +25683,7 @@
     },
     {
         "name": "鋼龍X踏實",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             4,
             1,
@@ -25705,7 +25705,7 @@
     },
     {
         "name": "霞龍真【腿甲】",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             0,
@@ -25727,7 +25727,7 @@
     },
     {
         "name": "帝王X護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             1,
@@ -25749,7 +25749,7 @@
     },
     {
         "name": "爵銀龍護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             4,
             1,
@@ -25771,7 +25771,7 @@
     },
     {
         "name": "方舟護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             3,
             2,
@@ -25793,7 +25793,7 @@
     },
     {
         "name": "友愛護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             3,
             2,
@@ -25815,7 +25815,7 @@
     },
     {
         "name": "齊天腿甲・真",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             1,
             1,
@@ -25837,7 +25837,7 @@
     },
     {
         "name": "爆鱗龍X護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             3,
             0,
@@ -25859,7 +25859,7 @@
     },
     {
         "name": "據點司令【腿甲】",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             2,
@@ -25880,7 +25880,7 @@
     },
     {
         "name": "冥淵纏鎧憤怒之足",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             3,
             2,
@@ -25901,7 +25901,7 @@
     },
     {
         "name": "龍捲之足真",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             0,
@@ -25924,7 +25924,7 @@
     },
     {
         "name": "鳴神之足真",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             0,
@@ -25947,7 +25947,7 @@
     },
     {
         "name": "怒天下裳",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             4,
             0,
@@ -25968,7 +25968,7 @@
     },
     {
         "name": "赫耀之護腿・真",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             3,
             1,
@@ -25989,7 +25989,7 @@
     },
     {
         "name": "禍鎧・怨【腿甲】",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             4,
             0,
@@ -26011,7 +26011,7 @@
     },
     {
         "name": "公會十字靴",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -26032,7 +26032,7 @@
     },
     {
         "name": "黑帶護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
@@ -26053,7 +26053,7 @@
     },
     {
         "name": "蒼世武士【足履】",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             2,
             1,
@@ -26074,7 +26074,7 @@
     },
     {
         "name": "黑帶S護腿",
-        "type": "legs",
+        "type": "leg",
         "slots": [
             0,
             0,
